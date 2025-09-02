@@ -1,0 +1,2158 @@
+departamento,municipio,anio,mes,indicador,valor
+HUILA,ACEVEDO,2018,enero,Visitantes PNN,218
+HUILA,ACEVEDO,2018,enero,Visitantes extranjeros no residentes,2
+HUILA,ACEVEDO,2018,febrero,Visitantes PNN,43
+HUILA,ACEVEDO,2018,febrero,Visitantes extranjeros no residentes,1
+HUILA,ACEVEDO,2018,marzo,Visitantes PNN,161
+HUILA,ACEVEDO,2018,abril,Visitantes PNN,113
+HUILA,ACEVEDO,2018,abril,Visitantes extranjeros no residentes,3
+HUILA,ACEVEDO,2018,mayo,Visitantes PNN,46
+HUILA,ACEVEDO,2018,mayo,Visitantes extranjeros no residentes,4
+HUILA,ACEVEDO,2018,junio,Visitantes PNN,49
+HUILA,ACEVEDO,2018,julio,Visitantes PNN,83
+HUILA,ACEVEDO,2018,julio,Visitantes extranjeros no residentes,2
+HUILA,ACEVEDO,2018,agosto,Visitantes PNN,49
+HUILA,ACEVEDO,2018,agosto,Visitantes extranjeros no residentes,1
+HUILA,ACEVEDO,2018,septiembre,Visitantes PNN,78
+HUILA,ACEVEDO,2018,octubre,Visitantes PNN,62
+HUILA,ACEVEDO,2018,noviembre,Visitantes PNN,216
+HUILA,ACEVEDO,2018,noviembre,Visitantes extranjeros no residentes,2
+HUILA,ACEVEDO,2018,diciembre,Visitantes PNN,99
+HUILA,ACEVEDO,2018,diciembre,Visitantes extranjeros no residentes,1
+HUILA,ACEVEDO,2019,enero,Visitantes PNN,122
+HUILA,ACEVEDO,2019,enero,Visitantes extranjeros no residentes,3
+HUILA,ACEVEDO,2019,febrero,Visitantes PNN,27
+HUILA,ACEVEDO,2019,febrero,Visitantes extranjeros no residentes,3
+HUILA,ACEVEDO,2019,marzo,Visitantes PNN,27
+HUILA,ACEVEDO,2019,abril,Visitantes PNN,128
+HUILA,ACEVEDO,2019,abril,Visitantes extranjeros no residentes,1
+HUILA,ACEVEDO,2019,mayo,Visitantes PNN,5
+HUILA,ACEVEDO,2019,mayo,Visitantes extranjeros no residentes,1
+HUILA,ACEVEDO,2019,junio,Visitantes PNN,0
+HUILA,ACEVEDO,2019,julio,Visitantes extranjeros no residentes,2
+HUILA,ACEVEDO,2019,julio,Visitantes PNN,0
+HUILA,ACEVEDO,2019,agosto,Visitantes extranjeros no residentes,5
+HUILA,ACEVEDO,2019,agosto,Visitantes PNN,0
+HUILA,ACEVEDO,2019,septiembre,Visitantes extranjeros no residentes,3
+HUILA,ACEVEDO,2019,septiembre,Visitantes PNN,0
+HUILA,ACEVEDO,2019,octubre,Visitantes extranjeros no residentes,1
+HUILA,ACEVEDO,2019,octubre,Visitantes PNN,0
+HUILA,ACEVEDO,2019,noviembre,Visitantes extranjeros no residentes,1
+HUILA,ACEVEDO,2019,noviembre,Visitantes PNN,0
+HUILA,ACEVEDO,2019,diciembre,Visitantes extranjeros no residentes,2
+HUILA,ACEVEDO,2019,diciembre,Visitantes PNN,0
+HUILA,ACEVEDO,2020,enero,Visitantes extranjeros no residentes,7
+HUILA,ACEVEDO,2020,enero,Visitantes PNN,0
+HUILA,ACEVEDO,2020,febrero,Visitantes extranjeros no residentes,5
+HUILA,ACEVEDO,2020,febrero,Visitantes PNN,1
+HUILA,ACEVEDO,2020,marzo,Visitantes PNN,31
+HUILA,ACEVEDO,2020,abril,Visitantes PNN,0
+HUILA,ACEVEDO,2020,mayo,Visitantes PNN,0
+HUILA,ACEVEDO,2020,junio,Visitantes PNN,0
+HUILA,ACEVEDO,2020,julio,Visitantes PNN,0
+HUILA,ACEVEDO,2020,agosto,Visitantes PNN,0
+HUILA,ACEVEDO,2020,septiembre,Visitantes PNN,0
+HUILA,ACEVEDO,2020,octubre,Visitantes PNN,0
+HUILA,ACEVEDO,2020,noviembre,Visitantes PNN,0
+HUILA,ACEVEDO,2020,diciembre,Visitantes extranjeros no residentes,5
+HUILA,ACEVEDO,2020,diciembre,Visitantes PNN,0
+HUILA,ACEVEDO,2021,enero,Visitantes PNN,0
+HUILA,ACEVEDO,2021,febrero,Visitantes PNN,0
+HUILA,ACEVEDO,2021,marzo,Visitantes PNN,11
+HUILA,ACEVEDO,2021,abril,Visitantes PNN,26
+HUILA,ACEVEDO,2021,abril,Visitantes extranjeros no residentes,1
+HUILA,ACEVEDO,2021,mayo,Visitantes extranjeros no residentes,1
+HUILA,ACEVEDO,2021,mayo,Visitantes PNN,0
+HUILA,ACEVEDO,2021,junio,Visitantes PNN,24
+HUILA,ACEVEDO,2021,junio,Visitantes extranjeros no residentes,1
+HUILA,ACEVEDO,2021,julio,Visitantes PNN,8
+HUILA,ACEVEDO,2021,julio,Visitantes extranjeros no residentes,1
+HUILA,ACEVEDO,2021,agosto,Visitantes PNN,17
+HUILA,ACEVEDO,2021,agosto,Visitantes extranjeros no residentes,2
+HUILA,ACEVEDO,2021,septiembre,Visitantes PNN,10
+HUILA,ACEVEDO,2021,septiembre,Visitantes extranjeros no residentes,3
+HUILA,ACEVEDO,2021,octubre,Visitantes PNN,15
+HUILA,ACEVEDO,2021,octubre,Visitantes extranjeros no residentes,2
+HUILA,ACEVEDO,2021,noviembre,Visitantes PNN,4
+HUILA,ACEVEDO,2021,noviembre,Visitantes extranjeros no residentes,3
+HUILA,ACEVEDO,2021,diciembre,Visitantes PNN,40
+HUILA,ACEVEDO,2021,diciembre,Visitantes extranjeros no residentes,1
+HUILA,ACEVEDO,2022,enero,Visitantes PNN,68
+HUILA,ACEVEDO,2022,enero,Visitantes extranjeros no residentes,5
+HUILA,ACEVEDO,2022,febrero,Visitantes PNN,11
+HUILA,ACEVEDO,2022,febrero,Visitantes extranjeros no residentes,3
+HUILA,ACEVEDO,2022,marzo,Visitantes extranjeros no residentes,4
+HUILA,ACEVEDO,2022,marzo,Visitantes PNN,
+HUILA,ACEVEDO,2022,abril,Visitantes PNN,37
+HUILA,ACEVEDO,2022,abril,Visitantes extranjeros no residentes,3
+HUILA,ACEVEDO,2022,mayo,Visitantes PNN,54
+HUILA,ACEVEDO,2022,mayo,Visitantes extranjeros no residentes,3
+HUILA,ACEVEDO,2022,junio,Visitantes PNN,11
+HUILA,ACEVEDO,2022,junio,Visitantes extranjeros no residentes,5
+HUILA,ACEVEDO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,134
+HUILA,ACEVEDO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,96
+HUILA,ACEVEDO,2022,julio,Prestadores de servicios turísticos activos en RNT,13
+HUILA,ACEVEDO,2022,julio,Establecimientos de alojamiento y hospedaje,10
+HUILA,ACEVEDO,2022,julio,Visitantes extranjeros no residentes,5
+HUILA,ACEVEDO,2022,julio,Check in,1
+HUILA,AGRADO,2018,enero,Visitantes extranjeros no residentes,1
+HUILA,AGRADO,2018,diciembre,Visitantes extranjeros no residentes,2
+HUILA,AGRADO,2019,junio,Visitantes extranjeros no residentes,2
+HUILA,AGRADO,2019,agosto,Visitantes extranjeros no residentes,1
+HUILA,AGRADO,2020,octubre,Visitantes extranjeros no residentes,1
+HUILA,AGRADO,2020,diciembre,Visitantes extranjeros no residentes,1
+HUILA,AGRADO,2021,mayo,Visitantes extranjeros no residentes,1
+HUILA,AGRADO,2021,agosto,Visitantes extranjeros no residentes,1
+HUILA,AGRADO,2021,diciembre,Visitantes extranjeros no residentes,2
+HUILA,AGRADO,2022,febrero,Visitantes extranjeros no residentes,2
+HUILA,AGRADO,2022,abril,Visitantes extranjeros no residentes,1
+HUILA,AGRADO,2022,junio,Visitantes extranjeros no residentes,2
+HUILA,AGRADO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,22
+HUILA,AGRADO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,20
+HUILA,AGRADO,2022,julio,Prestadores de servicios turísticos activos en RNT,3
+HUILA,AGRADO,2022,julio,Establecimientos de alojamiento y hospedaje,2
+HUILA,AIPE,2018,abril,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2018,mayo,Visitantes extranjeros no residentes,3
+HUILA,AIPE,2018,junio,Visitantes extranjeros no residentes,3
+HUILA,AIPE,2018,julio,Visitantes extranjeros no residentes,2
+HUILA,AIPE,2018,octubre,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2018,diciembre,Visitantes extranjeros no residentes,2
+HUILA,AIPE,2019,febrero,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2019,marzo,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2019,junio,Visitantes extranjeros no residentes,7
+HUILA,AIPE,2019,julio,Visitantes extranjeros no residentes,3
+HUILA,AIPE,2019,agosto,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2020,enero,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2020,octubre,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2020,diciembre,Visitantes extranjeros no residentes,5
+HUILA,AIPE,2021,marzo,Visitantes extranjeros no residentes,5
+HUILA,AIPE,2021,abril,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2021,mayo,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2021,junio,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2021,julio,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2021,agosto,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2021,septiembre,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2021,diciembre,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2022,febrero,Visitantes extranjeros no residentes,1
+HUILA,AIPE,2022,marzo,Visitantes extranjeros no residentes,2
+HUILA,AIPE,2022,junio,Visitantes extranjeros no residentes,7
+HUILA,AIPE,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,150
+HUILA,AIPE,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,111
+HUILA,AIPE,2022,julio,Prestadores de servicios turísticos activos en RNT,14
+HUILA,AIPE,2022,julio,Establecimientos de alojamiento y hospedaje,10
+HUILA,AIPE,2022,julio,Check in,1
+HUILA,ALGECIRAS,2018,marzo,Visitantes extranjeros no residentes,2
+HUILA,ALGECIRAS,2018,junio,Visitantes extranjeros no residentes,1
+HUILA,ALGECIRAS,2018,agosto,Visitantes extranjeros no residentes,2
+HUILA,ALGECIRAS,2018,diciembre,Visitantes extranjeros no residentes,1
+HUILA,ALGECIRAS,2019,abril,Visitantes extranjeros no residentes,2
+HUILA,ALGECIRAS,2019,octubre,Visitantes extranjeros no residentes,1
+HUILA,ALGECIRAS,2019,noviembre,Visitantes extranjeros no residentes,1
+HUILA,ALGECIRAS,2020,enero,Visitantes extranjeros no residentes,1
+HUILA,ALGECIRAS,2020,febrero,Visitantes extranjeros no residentes,1
+HUILA,ALGECIRAS,2020,julio,Visitantes extranjeros no residentes,2
+HUILA,ALGECIRAS,2020,diciembre,Visitantes extranjeros no residentes,3
+HUILA,ALGECIRAS,2021,marzo,Visitantes extranjeros no residentes,1
+HUILA,ALGECIRAS,2021,abril,Visitantes extranjeros no residentes,3
+HUILA,ALGECIRAS,2021,septiembre,Visitantes extranjeros no residentes,1
+HUILA,ALGECIRAS,2021,octubre,Visitantes extranjeros no residentes,3
+HUILA,ALGECIRAS,2021,diciembre,Visitantes extranjeros no residentes,4
+HUILA,ALGECIRAS,2022,febrero,Visitantes extranjeros no residentes,2
+HUILA,ALGECIRAS,2022,abril,Visitantes extranjeros no residentes,1
+HUILA,ALGECIRAS,2022,junio,Visitantes extranjeros no residentes,1
+HUILA,ALGECIRAS,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,23
+HUILA,ALGECIRAS,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,21
+HUILA,ALGECIRAS,2022,julio,Prestadores de servicios turísticos activos en RNT,7
+HUILA,ALGECIRAS,2022,julio,Establecimientos de alojamiento y hospedaje,3
+HUILA,ALGECIRAS,2022,julio,Visitantes extranjeros no residentes,
+HUILA,ALGECIRAS,2022,julio,Check in,1
+HUILA,ALTAMIRA,2018,enero,Visitantes extranjeros no residentes,2
+HUILA,ALTAMIRA,2018,mayo,Visitantes extranjeros no residentes,1
+HUILA,ALTAMIRA,2018,agosto,Visitantes extranjeros no residentes,1
+HUILA,ALTAMIRA,2019,enero,Visitantes extranjeros no residentes,2
+HUILA,ALTAMIRA,2019,junio,Visitantes extranjeros no residentes,2
+HUILA,ALTAMIRA,2020,enero,Visitantes extranjeros no residentes,1
+HUILA,ALTAMIRA,2021,febrero,Visitantes extranjeros no residentes,1
+HUILA,ALTAMIRA,2021,agosto,Visitantes extranjeros no residentes,1
+HUILA,ALTAMIRA,2021,septiembre,Visitantes extranjeros no residentes,2
+HUILA,ALTAMIRA,2021,diciembre,Visitantes extranjeros no residentes,2
+HUILA,ALTAMIRA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,27
+HUILA,ALTAMIRA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,19
+HUILA,ALTAMIRA,2022,julio,Prestadores de servicios turísticos activos en RNT,3
+HUILA,ALTAMIRA,2022,julio,Establecimientos de alojamiento y hospedaje,2
+HUILA,BARAYA,2022,enero,Visitantes extranjeros no residentes,1
+HUILA,BARAYA,2022,abril,Visitantes extranjeros no residentes,1
+HUILA,CAMPOALEGRE,2018,marzo,Visitantes extranjeros no residentes,1
+HUILA,CAMPOALEGRE,2018,abril,Visitantes extranjeros no residentes,1
+HUILA,CAMPOALEGRE,2018,mayo,Visitantes extranjeros no residentes,2
+HUILA,CAMPOALEGRE,2018,junio,Visitantes extranjeros no residentes,3
+HUILA,CAMPOALEGRE,2018,julio,Visitantes extranjeros no residentes,3
+HUILA,CAMPOALEGRE,2018,agosto,Visitantes extranjeros no residentes,1
+HUILA,CAMPOALEGRE,2018,octubre,Visitantes extranjeros no residentes,2
+HUILA,CAMPOALEGRE,2018,noviembre,llegadas pasajeros Nacionales,8
+HUILA,CAMPOALEGRE,2018,noviembre,Visitantes extranjeros no residentes,2
+HUILA,CAMPOALEGRE,2018,diciembre,Visitantes extranjeros no residentes,10
+HUILA,CAMPOALEGRE,2019,enero,Visitantes extranjeros no residentes,5
+HUILA,CAMPOALEGRE,2019,febrero,Visitantes extranjeros no residentes,2
+HUILA,CAMPOALEGRE,2019,marzo,Visitantes extranjeros no residentes,3
+HUILA,CAMPOALEGRE,2019,abril,Visitantes extranjeros no residentes,2
+HUILA,CAMPOALEGRE,2019,junio,Visitantes extranjeros no residentes,5
+HUILA,CAMPOALEGRE,2019,julio,Visitantes extranjeros no residentes,1
+HUILA,CAMPOALEGRE,2019,noviembre,Visitantes extranjeros no residentes,5
+HUILA,CAMPOALEGRE,2019,diciembre,Visitantes extranjeros no residentes,1
+HUILA,CAMPOALEGRE,2020,enero,Visitantes extranjeros no residentes,3
+HUILA,CAMPOALEGRE,2020,febrero,Visitantes extranjeros no residentes,4
+HUILA,CAMPOALEGRE,2020,octubre,Visitantes extranjeros no residentes,1
+HUILA,CAMPOALEGRE,2020,noviembre,Visitantes extranjeros no residentes,2
+HUILA,CAMPOALEGRE,2021,enero,Visitantes extranjeros no residentes,1
+HUILA,CAMPOALEGRE,2021,febrero,Visitantes extranjeros no residentes,2
+HUILA,CAMPOALEGRE,2021,marzo,Visitantes extranjeros no residentes,3
+HUILA,CAMPOALEGRE,2021,abril,Visitantes extranjeros no residentes,1
+HUILA,CAMPOALEGRE,2021,mayo,Visitantes extranjeros no residentes,1
+HUILA,CAMPOALEGRE,2021,junio,Visitantes extranjeros no residentes,1
+HUILA,CAMPOALEGRE,2021,julio,Visitantes extranjeros no residentes,1
+HUILA,CAMPOALEGRE,2021,agosto,Visitantes extranjeros no residentes,4
+HUILA,CAMPOALEGRE,2021,septiembre,Visitantes extranjeros no residentes,4
+HUILA,CAMPOALEGRE,2021,octubre,Visitantes extranjeros no residentes,3
+HUILA,CAMPOALEGRE,2021,noviembre,Visitantes extranjeros no residentes,4
+HUILA,CAMPOALEGRE,2021,diciembre,Visitantes extranjeros no residentes,10
+HUILA,CAMPOALEGRE,2022,enero,Visitantes extranjeros no residentes,6
+HUILA,CAMPOALEGRE,2022,febrero,Visitantes extranjeros no residentes,3
+HUILA,CAMPOALEGRE,2022,marzo,Visitantes extranjeros no residentes,3
+HUILA,CAMPOALEGRE,2022,abril,Visitantes extranjeros no residentes,2
+HUILA,CAMPOALEGRE,2022,mayo,Visitantes extranjeros no residentes,9
+HUILA,CAMPOALEGRE,2022,mayo,Llegadas internacionales,7
+HUILA,CAMPOALEGRE,2022,junio,Visitantes extranjeros no residentes,4
+HUILA,CAMPOALEGRE,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,131
+HUILA,CAMPOALEGRE,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,59
+HUILA,CAMPOALEGRE,2022,julio,Prestadores de servicios turísticos activos en RNT,12
+HUILA,CAMPOALEGRE,2022,julio,Establecimientos de alojamiento y hospedaje,9
+HUILA,CAMPOALEGRE,2022,julio,Visitantes extranjeros no residentes,3
+HUILA,COLOMBIA,2019,junio,Visitantes extranjeros no residentes,4
+HUILA,COLOMBIA,2019,julio,Visitantes extranjeros no residentes,1
+HUILA,COLOMBIA,2020,diciembre,Visitantes extranjeros no residentes,2
+HUILA,COLOMBIA,2021,febrero,Visitantes extranjeros no residentes,1
+HUILA,COLOMBIA,2021,abril,Visitantes extranjeros no residentes,1
+HUILA,COLOMBIA,2021,julio,Visitantes extranjeros no residentes,1
+HUILA,COLOMBIA,2021,agosto,Visitantes extranjeros no residentes,1
+HUILA,COLOMBIA,2021,septiembre,Visitantes extranjeros no residentes,2
+HUILA,COLOMBIA,2021,noviembre,Visitantes extranjeros no residentes,2
+HUILA,COLOMBIA,2022,enero,Visitantes extranjeros no residentes,1
+HUILA,COLOMBIA,2022,marzo,Visitantes extranjeros no residentes,5
+HUILA,COLOMBIA,2022,abril,Visitantes extranjeros no residentes,5
+HUILA,COLOMBIA,2022,mayo,Visitantes extranjeros no residentes,3
+HUILA,COLOMBIA,2022,junio,Visitantes extranjeros no residentes,4
+HUILA,COLOMBIA,2022,julio,Prestadores de servicios turísticos activos en RNT,2
+HUILA,GIGANTE,2018,enero,Visitantes extranjeros no residentes,3
+HUILA,GIGANTE,2018,febrero,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2018,abril,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2018,mayo,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2018,julio,Visitantes extranjeros no residentes,2
+HUILA,GIGANTE,2018,agosto,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2018,octubre,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2018,noviembre,Visitantes extranjeros no residentes,2
+HUILA,GIGANTE,2018,diciembre,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2019,enero,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2019,febrero,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2019,abril,Visitantes extranjeros no residentes,5
+HUILA,GIGANTE,2019,mayo,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2019,julio,Visitantes extranjeros no residentes,3
+HUILA,GIGANTE,2019,agosto,Visitantes extranjeros no residentes,2
+HUILA,GIGANTE,2019,septiembre,Visitantes extranjeros no residentes,4
+HUILA,GIGANTE,2019,octubre,Visitantes extranjeros no residentes,2
+HUILA,GIGANTE,2019,noviembre,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2020,enero,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2020,diciembre,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2021,febrero,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2021,junio,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2021,julio,Visitantes extranjeros no residentes,6
+HUILA,GIGANTE,2021,agosto,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2021,septiembre,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2021,noviembre,Visitantes extranjeros no residentes,2
+HUILA,GIGANTE,2021,diciembre,Visitantes extranjeros no residentes,8
+HUILA,GIGANTE,2022,enero,Visitantes extranjeros no residentes,3
+HUILA,GIGANTE,2022,febrero,Visitantes extranjeros no residentes,4
+HUILA,GIGANTE,2022,marzo,Visitantes extranjeros no residentes,2
+HUILA,GIGANTE,2022,abril,Visitantes extranjeros no residentes,2
+HUILA,GIGANTE,2022,mayo,Visitantes extranjeros no residentes,3
+HUILA,GIGANTE,2022,junio,Visitantes extranjeros no residentes,1
+HUILA,GIGANTE,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,351
+HUILA,GIGANTE,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,213
+HUILA,GIGANTE,2022,julio,Prestadores de servicios turísticos activos en RNT,40
+HUILA,GIGANTE,2022,julio,Establecimientos de alojamiento y hospedaje,32
+HUILA,GIGANTE,2022,julio,Visitantes extranjeros no residentes,5
+HUILA,GIGANTE,2022,julio,Check in,4
+HUILA,GUADALUPE,2018,marzo,Visitantes extranjeros no residentes,1
+HUILA,GUADALUPE,2018,abril,Visitantes extranjeros no residentes,1
+HUILA,GUADALUPE,2018,junio,Visitantes extranjeros no residentes,2
+HUILA,GUADALUPE,2019,enero,Visitantes extranjeros no residentes,3
+HUILA,GUADALUPE,2019,marzo,Visitantes extranjeros no residentes,1
+HUILA,GUADALUPE,2019,junio,Visitantes extranjeros no residentes,1
+HUILA,GUADALUPE,2019,agosto,Visitantes extranjeros no residentes,1
+HUILA,GUADALUPE,2019,octubre,Visitantes extranjeros no residentes,1
+HUILA,GUADALUPE,2020,enero,Visitantes extranjeros no residentes,2
+HUILA,GUADALUPE,2020,diciembre,Visitantes extranjeros no residentes,4
+HUILA,GUADALUPE,2021,febrero,Visitantes extranjeros no residentes,1
+HUILA,GUADALUPE,2021,mayo,Visitantes extranjeros no residentes,1
+HUILA,GUADALUPE,2021,junio,Visitantes extranjeros no residentes,3
+HUILA,GUADALUPE,2021,septiembre,Visitantes extranjeros no residentes,1
+HUILA,GUADALUPE,2021,diciembre,Visitantes extranjeros no residentes,4
+HUILA,GUADALUPE,2022,marzo,Visitantes extranjeros no residentes,1
+HUILA,GUADALUPE,2022,abril,Visitantes extranjeros no residentes,3
+HUILA,GUADALUPE,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,46
+HUILA,GUADALUPE,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,45
+HUILA,GUADALUPE,2022,julio,Prestadores de servicios turísticos activos en RNT,4
+HUILA,GUADALUPE,2022,julio,Establecimientos de alojamiento y hospedaje,3
+HUILA,GUADALUPE,2022,julio,Visitantes extranjeros no residentes,2
+HUILA,HOBO,2018,junio,Visitantes extranjeros no residentes,2
+HUILA,HOBO,2019,noviembre,Visitantes extranjeros no residentes,1
+HUILA,HOBO,2020,marzo,Visitantes extranjeros no residentes,1
+HUILA,HOBO,2021,enero,Visitantes extranjeros no residentes,1
+HUILA,HOBO,2021,septiembre,Visitantes extranjeros no residentes,1
+HUILA,HOBO,2021,noviembre,Visitantes extranjeros no residentes,2
+HUILA,HOBO,2021,diciembre,Visitantes extranjeros no residentes,2
+HUILA,HOBO,2022,enero,Visitantes extranjeros no residentes,1
+HUILA,HOBO,2022,junio,Visitantes extranjeros no residentes,2
+HUILA,HOBO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,126
+HUILA,HOBO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,52
+HUILA,HOBO,2022,julio,Prestadores de servicios turísticos activos en RNT,8
+HUILA,HOBO,2022,julio,Establecimientos de alojamiento y hospedaje,6
+HUILA,HOBO,2022,julio,Visitantes extranjeros no residentes,1
+HUILA,LA ARGENTINA,2018,mayo,Visitantes extranjeros no residentes,1
+HUILA,LA ARGENTINA,2018,junio,Visitantes extranjeros no residentes,3
+HUILA,LA ARGENTINA,2018,diciembre,Visitantes extranjeros no residentes,2
+HUILA,LA ARGENTINA,2019,febrero,Visitantes extranjeros no residentes,2
+HUILA,LA ARGENTINA,2019,marzo,Visitantes extranjeros no residentes,1
+HUILA,LA ARGENTINA,2019,octubre,Visitantes extranjeros no residentes,6
+HUILA,LA ARGENTINA,2019,diciembre,Visitantes extranjeros no residentes,2
+HUILA,LA ARGENTINA,2020,febrero,Visitantes extranjeros no residentes,2
+HUILA,LA ARGENTINA,2020,noviembre,Visitantes extranjeros no residentes,1
+HUILA,LA ARGENTINA,2021,marzo,Visitantes extranjeros no residentes,1
+HUILA,LA ARGENTINA,2021,abril,Visitantes extranjeros no residentes,1
+HUILA,LA ARGENTINA,2021,mayo,Visitantes extranjeros no residentes,1
+HUILA,LA ARGENTINA,2021,junio,Visitantes extranjeros no residentes,1
+HUILA,LA ARGENTINA,2021,octubre,Visitantes extranjeros no residentes,2
+HUILA,LA ARGENTINA,2021,diciembre,Visitantes extranjeros no residentes,2
+HUILA,LA ARGENTINA,2022,abril,Visitantes extranjeros no residentes,2
+HUILA,LA ARGENTINA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,14
+HUILA,LA ARGENTINA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,
+HUILA,LA ARGENTINA,2022,julio,Prestadores de servicios turísticos activos en RNT,6
+HUILA,LA ARGENTINA,2022,julio,Establecimientos de alojamiento y hospedaje,3
+HUILA,LA PLATA,2018,enero,Visitantes extranjeros no residentes,1
+HUILA,LA PLATA,2018,febrero,Visitantes extranjeros no residentes,6
+HUILA,LA PLATA,2018,marzo,Visitantes extranjeros no residentes,4
+HUILA,LA PLATA,2018,abril,Visitantes extranjeros no residentes,1
+HUILA,LA PLATA,2018,mayo,Visitantes extranjeros no residentes,4
+HUILA,LA PLATA,2018,junio,Visitantes extranjeros no residentes,14
+HUILA,LA PLATA,2018,julio,Visitantes extranjeros no residentes,8
+HUILA,LA PLATA,2018,agosto,Visitantes extranjeros no residentes,4
+HUILA,LA PLATA,2018,septiembre,Visitantes extranjeros no residentes,7
+HUILA,LA PLATA,2018,octubre,Visitantes extranjeros no residentes,6
+HUILA,LA PLATA,2018,noviembre,Visitantes extranjeros no residentes,10
+HUILA,LA PLATA,2018,diciembre,Visitantes extranjeros no residentes,16
+HUILA,LA PLATA,2019,enero,Visitantes extranjeros no residentes,4
+HUILA,LA PLATA,2019,febrero,Visitantes extranjeros no residentes,6
+HUILA,LA PLATA,2019,marzo,Visitantes extranjeros no residentes,4
+HUILA,LA PLATA,2019,abril,Visitantes extranjeros no residentes,2
+HUILA,LA PLATA,2019,mayo,Visitantes extranjeros no residentes,5
+HUILA,LA PLATA,2019,junio,Visitantes extranjeros no residentes,11
+HUILA,LA PLATA,2019,julio,Visitantes extranjeros no residentes,1
+HUILA,LA PLATA,2019,agosto,Visitantes extranjeros no residentes,10
+HUILA,LA PLATA,2019,septiembre,Visitantes extranjeros no residentes,8
+HUILA,LA PLATA,2019,octubre,Visitantes extranjeros no residentes,14
+HUILA,LA PLATA,2019,noviembre,Visitantes extranjeros no residentes,7
+HUILA,LA PLATA,2019,diciembre,Visitantes extranjeros no residentes,18
+HUILA,LA PLATA,2020,enero,Visitantes extranjeros no residentes,4
+HUILA,LA PLATA,2020,febrero,Visitantes extranjeros no residentes,6
+HUILA,LA PLATA,2020,marzo,Visitantes extranjeros no residentes,4
+HUILA,LA PLATA,2020,octubre,Visitantes extranjeros no residentes,1
+HUILA,LA PLATA,2020,noviembre,Visitantes extranjeros no residentes,3
+HUILA,LA PLATA,2020,diciembre,Visitantes extranjeros no residentes,5
+HUILA,LA PLATA,2021,enero,Visitantes extranjeros no residentes,3
+HUILA,LA PLATA,2021,marzo,Visitantes extranjeros no residentes,5
+HUILA,LA PLATA,2021,abril,Visitantes extranjeros no residentes,9
+HUILA,LA PLATA,2021,junio,Visitantes extranjeros no residentes,4
+HUILA,LA PLATA,2021,julio,Visitantes extranjeros no residentes,4
+HUILA,LA PLATA,2021,agosto,Visitantes extranjeros no residentes,3
+HUILA,LA PLATA,2021,septiembre,Visitantes extranjeros no residentes,3
+HUILA,LA PLATA,2021,octubre,Visitantes extranjeros no residentes,9
+HUILA,LA PLATA,2021,noviembre,Visitantes extranjeros no residentes,7
+HUILA,LA PLATA,2021,diciembre,Visitantes extranjeros no residentes,13
+HUILA,LA PLATA,2022,enero,Visitantes extranjeros no residentes,4
+HUILA,LA PLATA,2022,febrero,Visitantes extranjeros no residentes,11
+HUILA,LA PLATA,2022,marzo,Visitantes extranjeros no residentes,8
+HUILA,LA PLATA,2022,abril,Visitantes extranjeros no residentes,3
+HUILA,LA PLATA,2022,mayo,Visitantes extranjeros no residentes,10
+HUILA,LA PLATA,2022,junio,Visitantes extranjeros no residentes,18
+HUILA,LA PLATA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,593
+HUILA,LA PLATA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,434
+HUILA,LA PLATA,2022,julio,Prestadores de servicios turísticos activos en RNT,32
+HUILA,LA PLATA,2022,julio,Establecimientos de alojamiento y hospedaje,24
+HUILA,LA PLATA,2022,julio,Visitantes extranjeros no residentes,18
+HUILA,LA PLATA,2022,julio,Check in,5
+HUILA,NEIVA,2018,enero,llegadas pasajeros Nacionales,9021
+HUILA,NEIVA,2018,enero,Llegadas internacionales,304
+HUILA,NEIVA,2018,enero,Salidas internacionales,303
+HUILA,NEIVA,2018,enero,Visitantes extranjeros no residentes,207
+HUILA,NEIVA,2018,febrero,llegadas pasajeros Nacionales,10716
+HUILA,NEIVA,2018,febrero,Visitantes extranjeros no residentes,192
+HUILA,NEIVA,2018,febrero,Salidas internacionales,155
+HUILA,NEIVA,2018,febrero,Llegadas internacionales,136
+HUILA,NEIVA,2018,marzo,llegadas pasajeros Nacionales,11325
+HUILA,NEIVA,2018,marzo,Llegadas internacionales,217
+HUILA,NEIVA,2018,marzo,Salidas internacionales,214
+HUILA,NEIVA,2018,marzo,Visitantes extranjeros no residentes,200
+HUILA,NEIVA,2018,abril,llegadas pasajeros Nacionales,11078
+HUILA,NEIVA,2018,abril,Salidas internacionales,225
+HUILA,NEIVA,2018,abril,Visitantes extranjeros no residentes,199
+HUILA,NEIVA,2018,abril,Llegadas internacionales,166
+HUILA,NEIVA,2018,mayo,llegadas pasajeros Nacionales,11698
+HUILA,NEIVA,2018,mayo,Visitantes extranjeros no residentes,259
+HUILA,NEIVA,2018,mayo,Salidas internacionales,258
+HUILA,NEIVA,2018,mayo,Llegadas internacionales,226
+HUILA,NEIVA,2018,junio,llegadas pasajeros Nacionales,11171
+HUILA,NEIVA,2018,junio,Visitantes extranjeros no residentes,477
+HUILA,NEIVA,2018,junio,Salidas internacionales,402
+HUILA,NEIVA,2018,junio,Llegadas internacionales,397
+HUILA,NEIVA,2018,julio,llegadas pasajeros Nacionales,11165
+HUILA,NEIVA,2018,julio,Salidas internacionales,333
+HUILA,NEIVA,2018,julio,Visitantes extranjeros no residentes,285
+HUILA,NEIVA,2018,julio,Llegadas internacionales,244
+HUILA,NEIVA,2018,agosto,llegadas pasajeros Nacionales,11794
+HUILA,NEIVA,2018,agosto,Salidas internacionales,307
+HUILA,NEIVA,2018,agosto,Visitantes extranjeros no residentes,275
+HUILA,NEIVA,2018,agosto,Llegadas internacionales,248
+HUILA,NEIVA,2018,septiembre,llegadas pasajeros Nacionales,11353
+HUILA,NEIVA,2018,septiembre,Salidas internacionales,353
+HUILA,NEIVA,2018,septiembre,Llegadas internacionales,333
+HUILA,NEIVA,2018,septiembre,Visitantes extranjeros no residentes,176
+HUILA,NEIVA,2018,octubre,llegadas pasajeros Nacionales,12562
+HUILA,NEIVA,2018,octubre,Salidas internacionales,338
+HUILA,NEIVA,2018,octubre,Llegadas internacionales,313
+HUILA,NEIVA,2018,octubre,Visitantes extranjeros no residentes,280
+HUILA,NEIVA,2018,noviembre,llegadas pasajeros Nacionales,10894
+HUILA,NEIVA,2018,noviembre,Salidas internacionales,279
+HUILA,NEIVA,2018,noviembre,Llegadas internacionales,250
+HUILA,NEIVA,2018,noviembre,Visitantes extranjeros no residentes,193
+HUILA,NEIVA,2018,diciembre,llegadas pasajeros Nacionales,9226
+HUILA,NEIVA,2018,diciembre,Visitantes extranjeros no residentes,495
+HUILA,NEIVA,2018,diciembre,Llegadas internacionales,363
+HUILA,NEIVA,2018,diciembre,Salidas internacionales,297
+HUILA,NEIVA,2019,enero,llegadas pasajeros Nacionales,9080
+HUILA,NEIVA,2019,enero,Salidas internacionales,302
+HUILA,NEIVA,2019,enero,Llegadas internacionales,276
+HUILA,NEIVA,2019,enero,Visitantes extranjeros no residentes,190
+HUILA,NEIVA,2019,febrero,llegadas pasajeros Nacionales,11227
+HUILA,NEIVA,2019,febrero,Visitantes extranjeros no residentes,224
+HUILA,NEIVA,2019,febrero,Salidas internacionales,186
+HUILA,NEIVA,2019,febrero,Llegadas internacionales,177
+HUILA,NEIVA,2019,marzo,llegadas pasajeros Nacionales,12315
+HUILA,NEIVA,2019,marzo,Salidas internacionales,237
+HUILA,NEIVA,2019,marzo,Llegadas internacionales,232
+HUILA,NEIVA,2019,marzo,Visitantes extranjeros no residentes,205
+HUILA,NEIVA,2019,abril,llegadas pasajeros Nacionales,12535
+HUILA,NEIVA,2019,abril,Salidas internacionales,247
+HUILA,NEIVA,2019,abril,Visitantes extranjeros no residentes,227
+HUILA,NEIVA,2019,abril,Llegadas internacionales,213
+HUILA,NEIVA,2019,mayo,llegadas pasajeros Nacionales,14566
+HUILA,NEIVA,2019,mayo,Visitantes extranjeros no residentes,302
+HUILA,NEIVA,2019,mayo,Llegadas internacionales,247
+HUILA,NEIVA,2019,mayo,Salidas internacionales,229
+HUILA,NEIVA,2019,junio,llegadas pasajeros Nacionales,13666
+HUILA,NEIVA,2019,junio,Visitantes extranjeros no residentes,496
+HUILA,NEIVA,2019,junio,Llegadas internacionales,398
+HUILA,NEIVA,2019,junio,Salidas internacionales,341
+HUILA,NEIVA,2019,julio,llegadas pasajeros Nacionales,14979
+HUILA,NEIVA,2019,julio,Visitantes extranjeros no residentes,290
+HUILA,NEIVA,2019,julio,Llegadas internacionales,227
+HUILA,NEIVA,2019,julio,Salidas internacionales,191
+HUILA,NEIVA,2019,agosto,llegadas pasajeros Nacionales,14116
+HUILA,NEIVA,2019,agosto,Visitantes extranjeros no residentes,372
+HUILA,NEIVA,2019,agosto,Llegadas internacionales,89
+HUILA,NEIVA,2019,agosto,Salidas internacionales,38
+HUILA,NEIVA,2019,septiembre,llegadas pasajeros Nacionales,13844
+HUILA,NEIVA,2019,septiembre,Visitantes extranjeros no residentes,182
+HUILA,NEIVA,2019,septiembre,Llegadas internacionales,70
+HUILA,NEIVA,2019,septiembre,Salidas internacionales,22
+HUILA,NEIVA,2019,octubre,llegadas pasajeros Nacionales,12307
+HUILA,NEIVA,2019,octubre,Visitantes extranjeros no residentes,225
+HUILA,NEIVA,2019,octubre,Llegadas internacionales,0
+HUILA,NEIVA,2019,octubre,Salidas internacionales,
+HUILA,NEIVA,2019,noviembre,llegadas pasajeros Nacionales,12086
+HUILA,NEIVA,2019,noviembre,Visitantes extranjeros no residentes,191
+HUILA,NEIVA,2019,diciembre,llegadas pasajeros Nacionales,11980
+HUILA,NEIVA,2019,diciembre,Visitantes extranjeros no residentes,422
+HUILA,NEIVA,2020,enero,llegadas pasajeros Nacionales,10250
+HUILA,NEIVA,2020,enero,Visitantes extranjeros no residentes,220
+HUILA,NEIVA,2020,enero,Salidas internacionales,0
+HUILA,NEIVA,2020,febrero,llegadas pasajeros Nacionales,11671
+HUILA,NEIVA,2020,febrero,Visitantes extranjeros no residentes,228
+HUILA,NEIVA,2020,febrero,Llegadas internacionales,13
+HUILA,NEIVA,2020,marzo,llegadas pasajeros Nacionales,8107
+HUILA,NEIVA,2020,marzo,Visitantes extranjeros no residentes,88
+HUILA,NEIVA,2020,abril,llegadas pasajeros Nacionales,112
+HUILA,NEIVA,2020,mayo,llegadas pasajeros Nacionales,113
+HUILA,NEIVA,2020,junio,llegadas pasajeros Nacionales,118
+HUILA,NEIVA,2020,junio,Visitantes extranjeros no residentes,2
+HUILA,NEIVA,2020,julio,llegadas pasajeros Nacionales,111
+HUILA,NEIVA,2020,julio,Visitantes extranjeros no residentes,1
+HUILA,NEIVA,2020,agosto,llegadas pasajeros Nacionales,135
+HUILA,NEIVA,2020,septiembre,llegadas pasajeros Nacionales,272
+HUILA,NEIVA,2020,septiembre,Visitantes extranjeros no residentes,5
+HUILA,NEIVA,2020,octubre,llegadas pasajeros Nacionales,1979
+HUILA,NEIVA,2020,octubre,Visitantes extranjeros no residentes,61
+HUILA,NEIVA,2020,noviembre,llegadas pasajeros Nacionales,2390
+HUILA,NEIVA,2020,noviembre,Visitantes extranjeros no residentes,63
+HUILA,NEIVA,2020,diciembre,llegadas pasajeros Nacionales,3417
+HUILA,NEIVA,2020,diciembre,Visitantes extranjeros no residentes,216
+HUILA,NEIVA,2021,enero,llegadas pasajeros Nacionales,2346
+HUILA,NEIVA,2021,enero,Visitantes extranjeros no residentes,71
+HUILA,NEIVA,2021,febrero,llegadas pasajeros Nacionales,2840
+HUILA,NEIVA,2021,febrero,Visitantes extranjeros no residentes,73
+HUILA,NEIVA,2021,marzo,llegadas pasajeros Nacionales,4070
+HUILA,NEIVA,2021,marzo,Visitantes extranjeros no residentes,101
+HUILA,NEIVA,2021,abril,llegadas pasajeros Nacionales,3602
+HUILA,NEIVA,2021,abril,Visitantes extranjeros no residentes,93
+HUILA,NEIVA,2021,mayo,llegadas pasajeros Nacionales,5559
+HUILA,NEIVA,2021,mayo,Visitantes extranjeros no residentes,62
+HUILA,NEIVA,2021,junio,llegadas pasajeros Nacionales,6104
+HUILA,NEIVA,2021,junio,Visitantes extranjeros no residentes,171
+HUILA,NEIVA,2021,julio,llegadas pasajeros Nacionales,6735
+HUILA,NEIVA,2021,julio,Visitantes extranjeros no residentes,175
+HUILA,NEIVA,2021,agosto,llegadas pasajeros Nacionales,7046
+HUILA,NEIVA,2021,agosto,Visitantes extranjeros no residentes,147
+HUILA,NEIVA,2021,septiembre,llegadas pasajeros Nacionales,7604
+HUILA,NEIVA,2021,septiembre,Visitantes extranjeros no residentes,117
+HUILA,NEIVA,2021,octubre,llegadas pasajeros Nacionales,8623
+HUILA,NEIVA,2021,octubre,Visitantes extranjeros no residentes,171
+HUILA,NEIVA,2021,noviembre,llegadas pasajeros Nacionales,9017
+HUILA,NEIVA,2021,noviembre,Visitantes extranjeros no residentes,201
+HUILA,NEIVA,2021,diciembre,llegadas pasajeros Nacionales,9761
+HUILA,NEIVA,2021,diciembre,Visitantes extranjeros no residentes,537
+HUILA,NEIVA,2022,enero,llegadas pasajeros Nacionales,10056
+HUILA,NEIVA,2022,enero,Visitantes extranjeros no residentes,178
+HUILA,NEIVA,2022,febrero,llegadas pasajeros Nacionales,11369
+HUILA,NEIVA,2022,febrero,Visitantes extranjeros no residentes,208
+HUILA,NEIVA,2022,marzo,llegadas pasajeros Nacionales,15386
+HUILA,NEIVA,2022,marzo,Visitantes extranjeros no residentes,225
+HUILA,NEIVA,2022,abril,llegadas pasajeros Nacionales,15454
+HUILA,NEIVA,2022,abril,Visitantes extranjeros no residentes,228
+HUILA,NEIVA,2022,mayo,llegadas pasajeros Nacionales,17191
+HUILA,NEIVA,2022,mayo,Visitantes extranjeros no residentes,214
+HUILA,NEIVA,2022,junio,llegadas pasajeros Nacionales,18210
+HUILA,NEIVA,2022,junio,Visitantes extranjeros no residentes,544
+HUILA,NEIVA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,4098
+HUILA,NEIVA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,2666
+HUILA,NEIVA,2022,julio,Prestadores de servicios turísticos activos en RNT,431
+HUILA,NEIVA,2022,julio,Visitantes extranjeros no residentes,397
+HUILA,NEIVA,2022,julio,Establecimientos de alojamiento y hospedaje,245
+HUILA,NEIVA,2022,julio,Check in,25
+HUILA,OPORAPA,2018,mayo,Visitantes extranjeros no residentes,1
+HUILA,OPORAPA,2018,octubre,Visitantes extranjeros no residentes,1
+HUILA,OPORAPA,2019,abril,Visitantes extranjeros no residentes,1
+HUILA,OPORAPA,2019,agosto,Visitantes extranjeros no residentes,1
+HUILA,OPORAPA,2020,febrero,Visitantes extranjeros no residentes,3
+HUILA,OPORAPA,2021,octubre,Visitantes extranjeros no residentes,1
+HUILA,OPORAPA,2021,diciembre,Visitantes extranjeros no residentes,1
+HUILA,OPORAPA,2022,enero,Visitantes extranjeros no residentes,3
+HUILA,OPORAPA,2022,febrero,Visitantes extranjeros no residentes,1
+HUILA,OPORAPA,2022,marzo,Visitantes extranjeros no residentes,1
+HUILA,OPORAPA,2022,mayo,Visitantes extranjeros no residentes,2
+HUILA,OPORAPA,2022,julio,Establecimientos de alojamiento y hospedaje,2
+HUILA,OPORAPA,2022,julio,Prestadores de servicios turísticos activos en RNT,
+HUILA,OPORAPA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,0
+HUILA,OPORAPA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,
+HUILA,PAICOL,2022,abril,Visitantes extranjeros no residentes,4
+HUILA,PAICOL,2022,mayo,Visitantes extranjeros no residentes,1
+HUILA,PAICOL,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,258
+HUILA,PAICOL,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,146
+HUILA,PAICOL,2022,julio,Prestadores de servicios turísticos activos en RNT,44
+HUILA,PAICOL,2022,julio,Establecimientos de alojamiento y hospedaje,27
+HUILA,PAICOL,2022,julio,Check in,4
+HUILA,PALERMO,2018,febrero,Visitantes extranjeros no residentes,1
+HUILA,PALERMO,2018,mayo,Visitantes extranjeros no residentes,2
+HUILA,PALERMO,2018,junio,Visitantes extranjeros no residentes,3
+HUILA,PALERMO,2018,septiembre,Visitantes extranjeros no residentes,1
+HUILA,PALERMO,2018,diciembre,Visitantes extranjeros no residentes,1
+HUILA,PALERMO,2019,febrero,llegadas pasajeros Nacionales,2
+HUILA,PALERMO,2019,febrero,Visitantes extranjeros no residentes,1
+HUILA,PALERMO,2019,junio,Visitantes extranjeros no residentes,4
+HUILA,PALERMO,2019,agosto,Visitantes extranjeros no residentes,3
+HUILA,PALERMO,2019,septiembre,Visitantes extranjeros no residentes,1
+HUILA,PALERMO,2019,diciembre,llegadas pasajeros Nacionales,1
+HUILA,PALERMO,2019,diciembre,Visitantes extranjeros no residentes,
+HUILA,PALERMO,2020,febrero,Visitantes extranjeros no residentes,1
+HUILA,PALERMO,2020,diciembre,Visitantes extranjeros no residentes,1
+HUILA,PALERMO,2021,enero,llegadas pasajeros Nacionales,0
+HUILA,PALERMO,2021,febrero,llegadas pasajeros Nacionales,0
+HUILA,PALERMO,2021,marzo,llegadas pasajeros Nacionales,0
+HUILA,PALERMO,2021,abril,llegadas pasajeros Nacionales,0
+HUILA,PALERMO,2021,mayo,llegadas pasajeros Nacionales,0
+HUILA,PALERMO,2021,junio,Visitantes extranjeros no residentes,2
+HUILA,PALERMO,2021,julio,Visitantes extranjeros no residentes,2
+HUILA,PALERMO,2021,julio,llegadas pasajeros Nacionales,0
+HUILA,PALERMO,2021,agosto,llegadas pasajeros Nacionales,3
+HUILA,PALERMO,2021,agosto,Visitantes extranjeros no residentes,1
+HUILA,PALERMO,2021,septiembre,Visitantes extranjeros no residentes,2
+HUILA,PALERMO,2021,septiembre,llegadas pasajeros Nacionales,0
+HUILA,PALERMO,2021,octubre,llegadas pasajeros Nacionales,0
+HUILA,PALERMO,2021,diciembre,Visitantes extranjeros no residentes,10
+HUILA,PALERMO,2022,enero,Visitantes extranjeros no residentes,1
+HUILA,PALERMO,2022,enero,llegadas pasajeros Nacionales,0
+HUILA,PALERMO,2022,febrero,Visitantes extranjeros no residentes,3
+HUILA,PALERMO,2022,marzo,llegadas pasajeros Nacionales,0
+HUILA,PALERMO,2022,abril,Visitantes extranjeros no residentes,3
+HUILA,PALERMO,2022,abril,llegadas pasajeros Nacionales,0
+HUILA,PALERMO,2022,mayo,Visitantes extranjeros no residentes,3
+HUILA,PALERMO,2022,mayo,llegadas pasajeros Nacionales,0
+HUILA,PALERMO,2022,junio,Visitantes extranjeros no residentes,7
+HUILA,PALERMO,2022,junio,llegadas pasajeros Nacionales,1
+HUILA,PALERMO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,717
+HUILA,PALERMO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,468
+HUILA,PALERMO,2022,julio,Prestadores de servicios turísticos activos en RNT,38
+HUILA,PALERMO,2022,julio,Establecimientos de alojamiento y hospedaje,30
+HUILA,PALERMO,2022,julio,Check in,3
+HUILA,PALERMO,2022,julio,Visitantes extranjeros no residentes,1
+HUILA,PITALITO,2018,enero,llegadas pasajeros Nacionales,761
+HUILA,PITALITO,2018,enero,Visitantes extranjeros no residentes,33
+HUILA,PITALITO,2018,febrero,llegadas pasajeros Nacionales,673
+HUILA,PITALITO,2018,febrero,Visitantes extranjeros no residentes,42
+HUILA,PITALITO,2018,marzo,llegadas pasajeros Nacionales,833
+HUILA,PITALITO,2018,marzo,Visitantes extranjeros no residentes,38
+HUILA,PITALITO,2018,abril,llegadas pasajeros Nacionales,897
+HUILA,PITALITO,2018,abril,Visitantes extranjeros no residentes,21
+HUILA,PITALITO,2018,mayo,llegadas pasajeros Nacionales,1059
+HUILA,PITALITO,2018,mayo,Visitantes extranjeros no residentes,34
+HUILA,PITALITO,2018,junio,llegadas pasajeros Nacionales,1110
+HUILA,PITALITO,2018,junio,Visitantes extranjeros no residentes,54
+HUILA,PITALITO,2018,julio,llegadas pasajeros Nacionales,1155
+HUILA,PITALITO,2018,julio,Visitantes extranjeros no residentes,38
+HUILA,PITALITO,2018,agosto,llegadas pasajeros Nacionales,1154
+HUILA,PITALITO,2018,agosto,Visitantes extranjeros no residentes,32
+HUILA,PITALITO,2018,septiembre,llegadas pasajeros Nacionales,1061
+HUILA,PITALITO,2018,septiembre,Visitantes extranjeros no residentes,33
+HUILA,PITALITO,2018,octubre,llegadas pasajeros Nacionales,1142
+HUILA,PITALITO,2018,octubre,Visitantes extranjeros no residentes,42
+HUILA,PITALITO,2018,noviembre,llegadas pasajeros Nacionales,1159
+HUILA,PITALITO,2018,noviembre,Visitantes extranjeros no residentes,50
+HUILA,PITALITO,2018,diciembre,llegadas pasajeros Nacionales,1248
+HUILA,PITALITO,2018,diciembre,Visitantes extranjeros no residentes,109
+HUILA,PITALITO,2019,enero,llegadas pasajeros Nacionales,1113
+HUILA,PITALITO,2019,enero,Visitantes extranjeros no residentes,38
+HUILA,PITALITO,2019,febrero,llegadas pasajeros Nacionales,936
+HUILA,PITALITO,2019,febrero,Visitantes extranjeros no residentes,27
+HUILA,PITALITO,2019,marzo,llegadas pasajeros Nacionales,1552
+HUILA,PITALITO,2019,marzo,Visitantes extranjeros no residentes,31
+HUILA,PITALITO,2019,abril,llegadas pasajeros Nacionales,1251
+HUILA,PITALITO,2019,abril,Visitantes extranjeros no residentes,39
+HUILA,PITALITO,2019,mayo,llegadas pasajeros Nacionales,1336
+HUILA,PITALITO,2019,mayo,Visitantes extranjeros no residentes,37
+HUILA,PITALITO,2019,junio,llegadas pasajeros Nacionales,1287
+HUILA,PITALITO,2019,junio,Visitantes extranjeros no residentes,73
+HUILA,PITALITO,2019,julio,llegadas pasajeros Nacionales,1546
+HUILA,PITALITO,2019,julio,Visitantes extranjeros no residentes,39
+HUILA,PITALITO,2019,agosto,llegadas pasajeros Nacionales,1550
+HUILA,PITALITO,2019,agosto,Visitantes extranjeros no residentes,82
+HUILA,PITALITO,2019,septiembre,llegadas pasajeros Nacionales,1369
+HUILA,PITALITO,2019,septiembre,Visitantes extranjeros no residentes,42
+HUILA,PITALITO,2019,octubre,llegadas pasajeros Nacionales,1380
+HUILA,PITALITO,2019,octubre,Visitantes extranjeros no residentes,56
+HUILA,PITALITO,2019,noviembre,llegadas pasajeros Nacionales,1228
+HUILA,PITALITO,2019,noviembre,Visitantes extranjeros no residentes,51
+HUILA,PITALITO,2019,diciembre,llegadas pasajeros Nacionales,1153
+HUILA,PITALITO,2019,diciembre,Visitantes extranjeros no residentes,146
+HUILA,PITALITO,2020,enero,llegadas pasajeros Nacionales,848
+HUILA,PITALITO,2020,enero,Visitantes extranjeros no residentes,62
+HUILA,PITALITO,2020,febrero,llegadas pasajeros Nacionales,999
+HUILA,PITALITO,2020,febrero,Visitantes extranjeros no residentes,59
+HUILA,PITALITO,2020,marzo,llegadas pasajeros Nacionales,689
+HUILA,PITALITO,2020,marzo,Visitantes extranjeros no residentes,20
+HUILA,PITALITO,2020,abril,llegadas pasajeros Nacionales,4
+HUILA,PITALITO,2020,mayo,llegadas pasajeros Nacionales,8
+HUILA,PITALITO,2020,junio,llegadas pasajeros Nacionales,12
+HUILA,PITALITO,2020,julio,llegadas pasajeros Nacionales,7
+HUILA,PITALITO,2020,julio,Visitantes extranjeros no residentes,1
+HUILA,PITALITO,2020,agosto,Visitantes extranjeros no residentes,3
+HUILA,PITALITO,2020,agosto,llegadas pasajeros Nacionales,2
+HUILA,PITALITO,2020,septiembre,Visitantes extranjeros no residentes,1
+HUILA,PITALITO,2020,septiembre,llegadas pasajeros Nacionales,0
+HUILA,PITALITO,2020,octubre,llegadas pasajeros Nacionales,273
+HUILA,PITALITO,2020,octubre,Visitantes extranjeros no residentes,12
+HUILA,PITALITO,2020,noviembre,llegadas pasajeros Nacionales,344
+HUILA,PITALITO,2020,noviembre,Visitantes extranjeros no residentes,20
+HUILA,PITALITO,2020,diciembre,llegadas pasajeros Nacionales,396
+HUILA,PITALITO,2020,diciembre,Visitantes extranjeros no residentes,43
+HUILA,PITALITO,2021,enero,llegadas pasajeros Nacionales,444
+HUILA,PITALITO,2021,enero,Visitantes extranjeros no residentes,28
+HUILA,PITALITO,2021,febrero,llegadas pasajeros Nacionales,496
+HUILA,PITALITO,2021,febrero,Visitantes extranjeros no residentes,23
+HUILA,PITALITO,2021,marzo,llegadas pasajeros Nacionales,708
+HUILA,PITALITO,2021,marzo,Visitantes extranjeros no residentes,19
+HUILA,PITALITO,2021,abril,llegadas pasajeros Nacionales,655
+HUILA,PITALITO,2021,abril,Visitantes extranjeros no residentes,19
+HUILA,PITALITO,2021,mayo,llegadas pasajeros Nacionales,872
+HUILA,PITALITO,2021,mayo,Visitantes extranjeros no residentes,15
+HUILA,PITALITO,2021,junio,llegadas pasajeros Nacionales,742
+HUILA,PITALITO,2021,junio,Visitantes extranjeros no residentes,31
+HUILA,PITALITO,2021,julio,llegadas pasajeros Nacionales,731
+HUILA,PITALITO,2021,julio,Visitantes extranjeros no residentes,25
+HUILA,PITALITO,2021,agosto,llegadas pasajeros Nacionales,727
+HUILA,PITALITO,2021,agosto,Visitantes extranjeros no residentes,33
+HUILA,PITALITO,2021,septiembre,llegadas pasajeros Nacionales,667
+HUILA,PITALITO,2021,septiembre,Visitantes extranjeros no residentes,26
+HUILA,PITALITO,2021,octubre,llegadas pasajeros Nacionales,697
+HUILA,PITALITO,2021,octubre,Visitantes extranjeros no residentes,16
+HUILA,PITALITO,2021,noviembre,llegadas pasajeros Nacionales,784
+HUILA,PITALITO,2021,noviembre,Visitantes extranjeros no residentes,37
+HUILA,PITALITO,2021,diciembre,llegadas pasajeros Nacionales,872
+HUILA,PITALITO,2021,diciembre,Visitantes extranjeros no residentes,83
+HUILA,PITALITO,2022,enero,llegadas pasajeros Nacionales,838
+HUILA,PITALITO,2022,enero,Visitantes extranjeros no residentes,37
+HUILA,PITALITO,2022,febrero,llegadas pasajeros Nacionales,696
+HUILA,PITALITO,2022,febrero,Visitantes extranjeros no residentes,28
+HUILA,PITALITO,2022,marzo,llegadas pasajeros Nacionales,837
+HUILA,PITALITO,2022,marzo,Visitantes extranjeros no residentes,37
+HUILA,PITALITO,2022,abril,llegadas pasajeros Nacionales,783
+HUILA,PITALITO,2022,abril,Visitantes extranjeros no residentes,48
+HUILA,PITALITO,2022,mayo,llegadas pasajeros Nacionales,870
+HUILA,PITALITO,2022,mayo,Visitantes extranjeros no residentes,48
+HUILA,PITALITO,2022,junio,llegadas pasajeros Nacionales,999
+HUILA,PITALITO,2022,junio,Visitantes extranjeros no residentes,54
+HUILA,PITALITO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,1707
+HUILA,PITALITO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,1302
+HUILA,PITALITO,2022,julio,Prestadores de servicios turísticos activos en RNT,139
+HUILA,PITALITO,2022,julio,Establecimientos de alojamiento y hospedaje,101
+HUILA,PITALITO,2022,julio,Visitantes extranjeros no residentes,57
+HUILA,PITALITO,2022,julio,Check in,5
+HUILA,RIVERA,2018,enero,Visitantes extranjeros no residentes,1
+HUILA,RIVERA,2018,marzo,Visitantes extranjeros no residentes,2
+HUILA,RIVERA,2018,abril,Visitantes extranjeros no residentes,2
+HUILA,RIVERA,2018,mayo,Visitantes extranjeros no residentes,6
+HUILA,RIVERA,2018,junio,Visitantes extranjeros no residentes,3
+HUILA,RIVERA,2018,julio,Visitantes extranjeros no residentes,4
+HUILA,RIVERA,2018,agosto,Visitantes extranjeros no residentes,4
+HUILA,RIVERA,2018,octubre,Visitantes extranjeros no residentes,5
+HUILA,RIVERA,2018,noviembre,Visitantes extranjeros no residentes,1
+HUILA,RIVERA,2018,diciembre,Visitantes extranjeros no residentes,8
+HUILA,RIVERA,2019,febrero,Visitantes extranjeros no residentes,3
+HUILA,RIVERA,2019,marzo,Visitantes extranjeros no residentes,2
+HUILA,RIVERA,2019,abril,Visitantes extranjeros no residentes,1
+HUILA,RIVERA,2019,mayo,Visitantes extranjeros no residentes,2
+HUILA,RIVERA,2019,junio,Visitantes extranjeros no residentes,2
+HUILA,RIVERA,2019,julio,Visitantes extranjeros no residentes,4
+HUILA,RIVERA,2019,agosto,Visitantes extranjeros no residentes,2
+HUILA,RIVERA,2019,octubre,Visitantes extranjeros no residentes,4
+HUILA,RIVERA,2019,noviembre,Visitantes extranjeros no residentes,1
+HUILA,RIVERA,2019,diciembre,Visitantes extranjeros no residentes,9
+HUILA,RIVERA,2020,enero,Visitantes extranjeros no residentes,2
+HUILA,RIVERA,2020,febrero,Visitantes extranjeros no residentes,2
+HUILA,RIVERA,2020,noviembre,Visitantes extranjeros no residentes,4
+HUILA,RIVERA,2020,diciembre,Visitantes extranjeros no residentes,12
+HUILA,RIVERA,2021,enero,Visitantes extranjeros no residentes,1
+HUILA,RIVERA,2021,febrero,Visitantes extranjeros no residentes,1
+HUILA,RIVERA,2021,abril,Visitantes extranjeros no residentes,7
+HUILA,RIVERA,2021,mayo,Visitantes extranjeros no residentes,1
+HUILA,RIVERA,2021,junio,Visitantes extranjeros no residentes,9
+HUILA,RIVERA,2021,julio,Visitantes extranjeros no residentes,9
+HUILA,RIVERA,2021,agosto,Visitantes extranjeros no residentes,4
+HUILA,RIVERA,2021,septiembre,Visitantes extranjeros no residentes,4
+HUILA,RIVERA,2021,octubre,Visitantes extranjeros no residentes,8
+HUILA,RIVERA,2021,noviembre,Visitantes extranjeros no residentes,5
+HUILA,RIVERA,2021,diciembre,Visitantes extranjeros no residentes,6
+HUILA,RIVERA,2022,enero,Visitantes extranjeros no residentes,8
+HUILA,RIVERA,2022,febrero,Visitantes extranjeros no residentes,2
+HUILA,RIVERA,2022,marzo,Visitantes extranjeros no residentes,2
+HUILA,RIVERA,2022,abril,Visitantes extranjeros no residentes,5
+HUILA,RIVERA,2022,mayo,Visitantes extranjeros no residentes,3
+HUILA,RIVERA,2022,junio,Visitantes extranjeros no residentes,13
+HUILA,RIVERA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,1233
+HUILA,RIVERA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,591
+HUILA,RIVERA,2022,julio,Prestadores de servicios turísticos activos en RNT,112
+HUILA,RIVERA,2022,julio,Establecimientos de alojamiento y hospedaje,99
+HUILA,RIVERA,2022,julio,Check in,9
+HUILA,RIVERA,2022,julio,Visitantes extranjeros no residentes,6
+HUILA,SALADOBLANCO,2018,diciembre,Visitantes extranjeros no residentes,3
+HUILA,SALADOBLANCO,2019,diciembre,Visitantes extranjeros no residentes,1
+HUILA,SALADOBLANCO,2020,febrero,Visitantes extranjeros no residentes,1
+HUILA,SALADOBLANCO,2020,agosto,Visitantes extranjeros no residentes,1
+HUILA,SALADOBLANCO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,5
+HUILA,SALADOBLANCO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,
+HUILA,SALADOBLANCO,2022,julio,Prestadores de servicios turísticos activos en RNT,3
+HUILA,SALADOBLANCO,2022,julio,Establecimientos de alojamiento y hospedaje,2
+HUILA,SUAZA,2018,septiembre,Visitantes extranjeros no residentes,1
+HUILA,SUAZA,2018,octubre,Visitantes extranjeros no residentes,1
+HUILA,SUAZA,2019,mayo,Visitantes extranjeros no residentes,1
+HUILA,SUAZA,2019,octubre,Visitantes extranjeros no residentes,1
+HUILA,SUAZA,2019,noviembre,Visitantes extranjeros no residentes,1
+HUILA,SUAZA,2021,enero,Visitantes extranjeros no residentes,1
+HUILA,SUAZA,2021,septiembre,Visitantes extranjeros no residentes,3
+HUILA,SUAZA,2021,noviembre,Visitantes extranjeros no residentes,2
+HUILA,SUAZA,2021,diciembre,Visitantes extranjeros no residentes,2
+HUILA,SUAZA,2022,febrero,Visitantes extranjeros no residentes,2
+HUILA,SUAZA,2022,marzo,Visitantes extranjeros no residentes,2
+HUILA,SUAZA,2022,mayo,Visitantes extranjeros no residentes,2
+HUILA,SUAZA,2022,junio,Visitantes extranjeros no residentes,3
+HUILA,SUAZA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,148
+HUILA,SUAZA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,127
+HUILA,SUAZA,2022,julio,Prestadores de servicios turísticos activos en RNT,6
+HUILA,SUAZA,2022,julio,Establecimientos de alojamiento y hospedaje,5
+HUILA,SUAZA,2022,julio,Visitantes extranjeros no residentes,2
+HUILA,SUAZA,2022,julio,Check in,1
+HUILA,TARQUI,2018,junio,Visitantes extranjeros no residentes,5
+HUILA,TARQUI,2018,diciembre,Visitantes extranjeros no residentes,3
+HUILA,TARQUI,2019,febrero,Visitantes extranjeros no residentes,1
+HUILA,TARQUI,2019,marzo,Visitantes extranjeros no residentes,1
+HUILA,TARQUI,2019,diciembre,Visitantes extranjeros no residentes,1
+HUILA,TARQUI,2020,enero,Visitantes extranjeros no residentes,2
+HUILA,TARQUI,2020,febrero,Visitantes extranjeros no residentes,12
+HUILA,TARQUI,2020,marzo,Visitantes extranjeros no residentes,1
+HUILA,TARQUI,2020,diciembre,Visitantes extranjeros no residentes,1
+HUILA,TARQUI,2021,julio,Visitantes extranjeros no residentes,3
+HUILA,TARQUI,2021,octubre,Visitantes extranjeros no residentes,1
+HUILA,TARQUI,2021,diciembre,Visitantes extranjeros no residentes,3
+HUILA,TARQUI,2022,febrero,Visitantes extranjeros no residentes,1
+HUILA,TARQUI,2022,abril,Visitantes extranjeros no residentes,4
+HUILA,TARQUI,2022,junio,Visitantes extranjeros no residentes,2
+HUILA,TARQUI,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,61
+HUILA,TARQUI,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,42
+HUILA,TARQUI,2022,julio,Prestadores de servicios turísticos activos en RNT,10
+HUILA,TARQUI,2022,julio,Establecimientos de alojamiento y hospedaje,8
+HUILA,TELLO,2022,junio,Visitantes extranjeros no residentes,3
+HUILA,TELLO,2022,julio,Prestadores de servicios turísticos activos en RNT,3
+HUILA,TELLO,2022,julio,Establecimientos de alojamiento y hospedaje,1
+HUILA,TERUEL,2018,diciembre,Visitantes extranjeros no residentes,1
+HUILA,TERUEL,2020,enero,Visitantes extranjeros no residentes,1
+HUILA,TERUEL,2021,enero,Visitantes extranjeros no residentes,1
+HUILA,TERUEL,2022,enero,Visitantes extranjeros no residentes,1
+HUILA,TERUEL,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,52
+HUILA,TERUEL,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,29
+HUILA,TERUEL,2022,julio,Prestadores de servicios turísticos activos en RNT,7
+HUILA,TERUEL,2022,julio,Establecimientos de alojamiento y hospedaje,5
+HUILA,TESALIA,2018,febrero,Visitantes extranjeros no residentes,1
+HUILA,TESALIA,2018,junio,Visitantes extranjeros no residentes,3
+HUILA,TESALIA,2018,julio,Visitantes extranjeros no residentes,7
+HUILA,TESALIA,2018,agosto,Visitantes extranjeros no residentes,1
+HUILA,TESALIA,2018,noviembre,Visitantes extranjeros no residentes,1
+HUILA,TESALIA,2018,diciembre,Visitantes extranjeros no residentes,1
+HUILA,TESALIA,2019,enero,Visitantes extranjeros no residentes,1
+HUILA,TESALIA,2019,febrero,Visitantes extranjeros no residentes,1
+HUILA,TESALIA,2019,septiembre,Visitantes extranjeros no residentes,1
+HUILA,TESALIA,2019,octubre,Visitantes extranjeros no residentes,2
+HUILA,TESALIA,2019,diciembre,Visitantes extranjeros no residentes,1
+HUILA,TESALIA,2020,diciembre,Visitantes extranjeros no residentes,1
+HUILA,TESALIA,2021,marzo,Visitantes extranjeros no residentes,2
+HUILA,TESALIA,2021,julio,Visitantes extranjeros no residentes,1
+HUILA,TESALIA,2021,octubre,Visitantes extranjeros no residentes,3
+HUILA,TESALIA,2021,diciembre,Visitantes extranjeros no residentes,1
+HUILA,TESALIA,2022,marzo,Visitantes extranjeros no residentes,1
+HUILA,TESALIA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,17
+HUILA,TESALIA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,10
+HUILA,TESALIA,2022,julio,Prestadores de servicios turísticos activos en RNT,9
+HUILA,TESALIA,2022,julio,Establecimientos de alojamiento y hospedaje,4
+HUILA,VILLAVIEJA,2018,enero,Visitantes extranjeros no residentes,3
+HUILA,VILLAVIEJA,2018,febrero,Visitantes extranjeros no residentes,2
+HUILA,VILLAVIEJA,2018,junio,Visitantes extranjeros no residentes,3
+HUILA,VILLAVIEJA,2018,julio,Visitantes extranjeros no residentes,2
+HUILA,VILLAVIEJA,2018,agosto,Visitantes extranjeros no residentes,10
+HUILA,VILLAVIEJA,2018,septiembre,Visitantes extranjeros no residentes,6
+HUILA,VILLAVIEJA,2018,octubre,Visitantes extranjeros no residentes,1
+HUILA,VILLAVIEJA,2018,noviembre,Visitantes extranjeros no residentes,2
+HUILA,VILLAVIEJA,2018,diciembre,Visitantes extranjeros no residentes,2
+HUILA,VILLAVIEJA,2019,enero,Visitantes extranjeros no residentes,6
+HUILA,VILLAVIEJA,2019,febrero,Visitantes extranjeros no residentes,3
+HUILA,VILLAVIEJA,2019,abril,Visitantes extranjeros no residentes,2
+HUILA,VILLAVIEJA,2019,julio,Visitantes extranjeros no residentes,5
+HUILA,VILLAVIEJA,2019,agosto,Visitantes extranjeros no residentes,3
+HUILA,VILLAVIEJA,2019,septiembre,Visitantes extranjeros no residentes,3
+HUILA,VILLAVIEJA,2019,octubre,Visitantes extranjeros no residentes,6
+HUILA,VILLAVIEJA,2019,noviembre,Visitantes extranjeros no residentes,1
+HUILA,VILLAVIEJA,2019,diciembre,Visitantes extranjeros no residentes,5
+HUILA,VILLAVIEJA,2020,enero,Visitantes extranjeros no residentes,2
+HUILA,VILLAVIEJA,2020,febrero,Visitantes extranjeros no residentes,3
+HUILA,VILLAVIEJA,2020,marzo,Visitantes extranjeros no residentes,2
+HUILA,VILLAVIEJA,2020,diciembre,Visitantes extranjeros no residentes,6
+HUILA,VILLAVIEJA,2021,febrero,Visitantes extranjeros no residentes,2
+HUILA,VILLAVIEJA,2021,agosto,Visitantes extranjeros no residentes,3
+HUILA,VILLAVIEJA,2021,septiembre,Visitantes extranjeros no residentes,1
+HUILA,VILLAVIEJA,2021,octubre,Visitantes extranjeros no residentes,7
+HUILA,VILLAVIEJA,2021,noviembre,Visitantes extranjeros no residentes,7
+HUILA,VILLAVIEJA,2021,diciembre,Visitantes extranjeros no residentes,4
+HUILA,VILLAVIEJA,2022,enero,Visitantes extranjeros no residentes,4
+HUILA,VILLAVIEJA,2022,febrero,Visitantes extranjeros no residentes,3
+HUILA,VILLAVIEJA,2022,marzo,Visitantes extranjeros no residentes,4
+HUILA,VILLAVIEJA,2022,abril,Visitantes extranjeros no residentes,3
+HUILA,VILLAVIEJA,2022,mayo,Visitantes extranjeros no residentes,7
+HUILA,VILLAVIEJA,2022,junio,Visitantes extranjeros no residentes,4
+HUILA,VILLAVIEJA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,1211
+HUILA,VILLAVIEJA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,590
+HUILA,VILLAVIEJA,2022,julio,Prestadores de servicios turísticos activos en RNT,131
+HUILA,VILLAVIEJA,2022,julio,Establecimientos de alojamiento y hospedaje,93
+HUILA,VILLAVIEJA,2022,julio,Check in,7
+HUILA,VILLAVIEJA,2022,julio,Visitantes extranjeros no residentes,5TOLIMA,ALPUJARRA,2018,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2018,abril,Visitantes extranjeros no residentes,3
+TOLIMA,ALPUJARRA,2018,julio,Visitantes extranjeros no residentes,2
+TOLIMA,ALPUJARRA,2018,agosto,Visitantes extranjeros no residentes,3
+TOLIMA,ALPUJARRA,2018,octubre,Visitantes extranjeros no residentes,2
+TOLIMA,ALPUJARRA,2018,diciembre,Visitantes extranjeros no residentes,5
+TOLIMA,ALPUJARRA,2019,enero,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2019,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2019,abril,Visitantes extranjeros no residentes,3
+TOLIMA,ALPUJARRA,2019,mayo,Visitantes extranjeros no residentes,3
+TOLIMA,ALPUJARRA,2019,julio,Visitantes extranjeros no residentes,2
+TOLIMA,ALPUJARRA,2019,agosto,Visitantes extranjeros no residentes,2
+TOLIMA,ALPUJARRA,2019,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2019,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2019,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,ALPUJARRA,2019,diciembre,Visitantes extranjeros no residentes,3
+TOLIMA,ALPUJARRA,2020,enero,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2020,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2020,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2020,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2020,diciembre,Visitantes extranjeros no residentes,4
+TOLIMA,ALPUJARRA,2021,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2021,junio,Visitantes extranjeros no residentes,3
+TOLIMA,ALPUJARRA,2021,julio,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2021,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2021,octubre,Visitantes extranjeros no residentes,3
+TOLIMA,ALPUJARRA,2021,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2021,diciembre,Visitantes extranjeros no residentes,2
+TOLIMA,ALPUJARRA,2022,enero,Visitantes extranjeros no residentes,3
+TOLIMA,ALPUJARRA,2022,marzo,Visitantes extranjeros no residentes,4
+TOLIMA,ALPUJARRA,2022,abril,Visitantes extranjeros no residentes,2
+TOLIMA,ALPUJARRA,2022,mayo,Visitantes extranjeros no residentes,1
+TOLIMA,ALPUJARRA,2022,junio,Visitantes extranjeros no residentes,3
+TOLIMA,ALPUJARRA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,14
+TOLIMA,ALPUJARRA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,7
+TOLIMA,ALPUJARRA,2022,julio,Visitantes extranjeros no residentes,4
+TOLIMA,ALPUJARRA,2022,julio,Prestadores de servicios turísticos activos en RNT,3
+TOLIMA,ALPUJARRA,2022,julio,Establecimientos de alojamiento y hospedaje,2
+TOLIMA,ALVARADO,2018,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,ALVARADO,2018,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,ALVARADO,2020,enero,Visitantes extranjeros no residentes,4
+TOLIMA,ALVARADO,2020,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,ALVARADO,2021,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,ALVARADO,2021,diciembre,Visitantes extranjeros no residentes,2
+TOLIMA,ALVARADO,2022,mayo,Visitantes extranjeros no residentes,1
+TOLIMA,ALVARADO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,143
+TOLIMA,ALVARADO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,40
+TOLIMA,ALVARADO,2022,julio,Establecimientos de alojamiento y hospedaje,7
+TOLIMA,ALVARADO,2022,julio,Prestadores de servicios turísticos activos en RNT,
+TOLIMA,AMBALEMA,2018,junio,Visitantes extranjeros no residentes,1
+TOLIMA,AMBALEMA,2019,enero,Visitantes extranjeros no residentes,1
+TOLIMA,AMBALEMA,2019,agosto,llegadas pasajeros Nacionales,17
+TOLIMA,AMBALEMA,2019,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,AMBALEMA,2019,septiembre,llegadas pasajeros Nacionales,3
+TOLIMA,AMBALEMA,2019,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,AMBALEMA,2021,enero,Visitantes extranjeros no residentes,1
+TOLIMA,AMBALEMA,2021,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,AMBALEMA,2022,febrero,Visitantes extranjeros no residentes,3
+TOLIMA,AMBALEMA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,42
+TOLIMA,AMBALEMA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,25
+TOLIMA,AMBALEMA,2022,julio,Establecimientos de alojamiento y hospedaje,2
+TOLIMA,AMBALEMA,2022,julio,Prestadores de servicios turísticos activos en RNT,
+TOLIMA,ARMERO,2018,enero,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2018,mayo,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2018,junio,Visitantes extranjeros no residentes,2
+TOLIMA,ARMERO,2018,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2018,diciembre,Visitantes extranjeros no residentes,6
+TOLIMA,ARMERO,2019,enero,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2019,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2019,abril,Visitantes extranjeros no residentes,4
+TOLIMA,ARMERO,2019,junio,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2019,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2019,noviembre,Visitantes extranjeros no residentes,3
+TOLIMA,ARMERO,2020,enero,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2020,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,ARMERO,2020,diciembre,Visitantes extranjeros no residentes,5
+TOLIMA,ARMERO,2021,enero,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2021,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2021,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2021,abril,Visitantes extranjeros no residentes,2
+TOLIMA,ARMERO,2021,junio,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2021,agosto,Visitantes extranjeros no residentes,2
+TOLIMA,ARMERO,2021,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2021,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2021,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2022,enero,Visitantes extranjeros no residentes,6
+TOLIMA,ARMERO,2022,abril,Visitantes extranjeros no residentes,1
+TOLIMA,ARMERO,2022,junio,Visitantes extranjeros no residentes,2
+TOLIMA,ARMERO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,264
+TOLIMA,ARMERO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,130
+TOLIMA,ARMERO,2022,julio,Prestadores de servicios turísticos activos en RNT,23
+TOLIMA,ARMERO,2022,julio,Establecimientos de alojamiento y hospedaje,18
+TOLIMA,ARMERO,2022,julio,Visitantes extranjeros no residentes,6
+TOLIMA,CAJAMARCA,2018,enero,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2018,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2018,marzo,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2018,mayo,Visitantes extranjeros no residentes,3
+TOLIMA,CAJAMARCA,2018,junio,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2018,julio,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2018,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2018,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2018,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2018,diciembre,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2019,enero,Visitantes extranjeros no residentes,7
+TOLIMA,CAJAMARCA,2019,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2019,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2019,abril,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2019,mayo,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2019,junio,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2019,julio,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2019,agosto,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2019,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2019,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2019,noviembre,Visitantes extranjeros no residentes,3
+TOLIMA,CAJAMARCA,2019,diciembre,Visitantes extranjeros no residentes,3
+TOLIMA,CAJAMARCA,2020,enero,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2020,febrero,Visitantes extranjeros no residentes,4
+TOLIMA,CAJAMARCA,2020,marzo,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2020,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2020,diciembre,Visitantes extranjeros no residentes,8
+TOLIMA,CAJAMARCA,2021,enero,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2021,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2021,marzo,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2021,abril,Visitantes extranjeros no residentes,5
+TOLIMA,CAJAMARCA,2021,mayo,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2021,junio,Visitantes extranjeros no residentes,3
+TOLIMA,CAJAMARCA,2021,julio,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2021,agosto,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2021,septiembre,Visitantes extranjeros no residentes,32
+TOLIMA,CAJAMARCA,2021,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2021,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2021,diciembre,Visitantes extranjeros no residentes,5
+TOLIMA,CAJAMARCA,2022,enero,Visitantes extranjeros no residentes,4
+TOLIMA,CAJAMARCA,2022,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2022,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2022,abril,Visitantes extranjeros no residentes,2
+TOLIMA,CAJAMARCA,2022,mayo,Visitantes extranjeros no residentes,1
+TOLIMA,CAJAMARCA,2022,junio,Visitantes extranjeros no residentes,4
+TOLIMA,CAJAMARCA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,203
+TOLIMA,CAJAMARCA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,170
+TOLIMA,CAJAMARCA,2022,julio,Prestadores de servicios turísticos activos en RNT,21
+TOLIMA,CAJAMARCA,2022,julio,Establecimientos de alojamiento y hospedaje,13
+TOLIMA,CAJAMARCA,2022,julio,Visitantes extranjeros no residentes,5
+TOLIMA,CHAPARRAL,2018,enero,Visitantes extranjeros no residentes,6
+TOLIMA,CHAPARRAL,2018,enero,llegadas pasajeros Nacionales,4
+TOLIMA,CHAPARRAL,2018,febrero,llegadas pasajeros Nacionales,6
+TOLIMA,CHAPARRAL,2018,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,CHAPARRAL,2018,marzo,llegadas pasajeros Nacionales,6
+TOLIMA,CHAPARRAL,2018,marzo,Visitantes extranjeros no residentes,
+TOLIMA,CHAPARRAL,2018,abril,llegadas pasajeros Nacionales,13
+TOLIMA,CHAPARRAL,2018,abril,Visitantes extranjeros no residentes,1
+TOLIMA,CHAPARRAL,2018,mayo,llegadas pasajeros Nacionales,12
+TOLIMA,CHAPARRAL,2018,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,CHAPARRAL,2018,junio,llegadas pasajeros Nacionales,11
+TOLIMA,CHAPARRAL,2018,junio,Visitantes extranjeros no residentes,1
+TOLIMA,CHAPARRAL,2018,julio,llegadas pasajeros Nacionales,4
+TOLIMA,CHAPARRAL,2018,julio,Visitantes extranjeros no residentes,3
+TOLIMA,CHAPARRAL,2018,agosto,llegadas pasajeros Nacionales,8
+TOLIMA,CHAPARRAL,2018,agosto,Visitantes extranjeros no residentes,2
+TOLIMA,CHAPARRAL,2018,septiembre,llegadas pasajeros Nacionales,8
+TOLIMA,CHAPARRAL,2018,septiembre,Visitantes extranjeros no residentes,4
+TOLIMA,CHAPARRAL,2018,octubre,llegadas pasajeros Nacionales,8
+TOLIMA,CHAPARRAL,2018,octubre,Visitantes extranjeros no residentes,5
+TOLIMA,CHAPARRAL,2018,noviembre,llegadas pasajeros Nacionales,10
+TOLIMA,CHAPARRAL,2018,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,CHAPARRAL,2018,diciembre,llegadas pasajeros Nacionales,14
+TOLIMA,CHAPARRAL,2018,diciembre,Visitantes extranjeros no residentes,3
+TOLIMA,CHAPARRAL,2019,enero,llegadas pasajeros Nacionales,16
+TOLIMA,CHAPARRAL,2019,enero,Visitantes extranjeros no residentes,4
+TOLIMA,CHAPARRAL,2019,febrero,llegadas pasajeros Nacionales,10
+TOLIMA,CHAPARRAL,2019,marzo,llegadas pasajeros Nacionales,6
+TOLIMA,CHAPARRAL,2019,abril,llegadas pasajeros Nacionales,12
+TOLIMA,CHAPARRAL,2019,abril,Visitantes extranjeros no residentes,2
+TOLIMA,CHAPARRAL,2019,mayo,llegadas pasajeros Nacionales,8
+TOLIMA,CHAPARRAL,2019,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,CHAPARRAL,2019,junio,llegadas pasajeros Nacionales,14
+TOLIMA,CHAPARRAL,2019,junio,Visitantes extranjeros no residentes,2
+TOLIMA,CHAPARRAL,2019,julio,Visitantes extranjeros no residentes,12
+TOLIMA,CHAPARRAL,2019,julio,llegadas pasajeros Nacionales,10
+TOLIMA,CHAPARRAL,2019,agosto,llegadas pasajeros Nacionales,12
+TOLIMA,CHAPARRAL,2019,agosto,Visitantes extranjeros no residentes,4
+TOLIMA,CHAPARRAL,2019,septiembre,llegadas pasajeros Nacionales,8
+TOLIMA,CHAPARRAL,2019,septiembre,Visitantes extranjeros no residentes,3
+TOLIMA,CHAPARRAL,2019,octubre,llegadas pasajeros Nacionales,6
+TOLIMA,CHAPARRAL,2019,octubre,Visitantes extranjeros no residentes,4
+TOLIMA,CHAPARRAL,2019,noviembre,llegadas pasajeros Nacionales,6
+TOLIMA,CHAPARRAL,2019,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,CHAPARRAL,2019,diciembre,llegadas pasajeros Nacionales,10
+TOLIMA,CHAPARRAL,2019,diciembre,Visitantes extranjeros no residentes,3
+TOLIMA,CHAPARRAL,2020,enero,llegadas pasajeros Nacionales,4
+TOLIMA,CHAPARRAL,2020,enero,Visitantes extranjeros no residentes,1
+TOLIMA,CHAPARRAL,2020,febrero,llegadas pasajeros Nacionales,6
+TOLIMA,CHAPARRAL,2020,febrero,Visitantes extranjeros no residentes,5
+TOLIMA,CHAPARRAL,2020,marzo,llegadas pasajeros Nacionales,6
+TOLIMA,CHAPARRAL,2020,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,CHAPARRAL,2020,abril,llegadas pasajeros Nacionales,8
+TOLIMA,CHAPARRAL,2020,mayo,llegadas pasajeros Nacionales,8
+TOLIMA,CHAPARRAL,2020,junio,llegadas pasajeros Nacionales,10
+TOLIMA,CHAPARRAL,2020,julio,llegadas pasajeros Nacionales,6
+TOLIMA,CHAPARRAL,2020,agosto,llegadas pasajeros Nacionales,8
+TOLIMA,CHAPARRAL,2020,septiembre,llegadas pasajeros Nacionales,6
+TOLIMA,CHAPARRAL,2020,octubre,llegadas pasajeros Nacionales,2
+TOLIMA,CHAPARRAL,2020,noviembre,llegadas pasajeros Nacionales,4
+TOLIMA,CHAPARRAL,2020,diciembre,llegadas pasajeros Nacionales,4
+TOLIMA,CHAPARRAL,2020,diciembre,Visitantes extranjeros no residentes,2
+TOLIMA,CHAPARRAL,2021,enero,Visitantes extranjeros no residentes,5
+TOLIMA,CHAPARRAL,2021,enero,llegadas pasajeros Nacionales,2
+TOLIMA,CHAPARRAL,2021,febrero,llegadas pasajeros Nacionales,2
+TOLIMA,CHAPARRAL,2021,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,CHAPARRAL,2021,marzo,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2021,abril,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2021,mayo,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2021,junio,Visitantes extranjeros no residentes,2
+TOLIMA,CHAPARRAL,2021,junio,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2021,julio,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2021,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,CHAPARRAL,2021,agosto,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2021,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,CHAPARRAL,2021,septiembre,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2021,octubre,Visitantes extranjeros no residentes,4
+TOLIMA,CHAPARRAL,2021,octubre,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2021,noviembre,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2021,diciembre,Visitantes extranjeros no residentes,3
+TOLIMA,CHAPARRAL,2021,diciembre,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2022,enero,Visitantes extranjeros no residentes,6
+TOLIMA,CHAPARRAL,2022,enero,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2022,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,CHAPARRAL,2022,febrero,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2022,marzo,llegadas pasajeros Nacionales,4
+TOLIMA,CHAPARRAL,2022,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,CHAPARRAL,2022,abril,llegadas pasajeros Nacionales,12
+TOLIMA,CHAPARRAL,2022,abril,Visitantes extranjeros no residentes,3
+TOLIMA,CHAPARRAL,2022,mayo,Visitantes extranjeros no residentes,3
+TOLIMA,CHAPARRAL,2022,mayo,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2022,junio,Visitantes extranjeros no residentes,8
+TOLIMA,CHAPARRAL,2022,junio,llegadas pasajeros Nacionales,0
+TOLIMA,CHAPARRAL,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,566
+TOLIMA,CHAPARRAL,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,425
+TOLIMA,CHAPARRAL,2022,julio,Prestadores de servicios turísticos activos en RNT,32
+TOLIMA,CHAPARRAL,2022,julio,Establecimientos de alojamiento y hospedaje,25
+TOLIMA,CHAPARRAL,2022,julio,Visitantes extranjeros no residentes,10
+TOLIMA,COELLO,2018,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,COELLO,2019,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,COELLO,2019,junio,Visitantes extranjeros no residentes,2
+TOLIMA,COELLO,2020,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,COELLO,2020,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,COELLO,2021,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,COELLO,2022,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,COELLO,2022,junio,Visitantes extranjeros no residentes,2
+TOLIMA,COELLO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,106
+TOLIMA,COELLO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,65
+TOLIMA,COELLO,2022,julio,Establecimientos de alojamiento y hospedaje,4
+TOLIMA,COELLO,2022,julio,Prestadores de servicios turísticos activos en RNT,
+TOLIMA,CUNDAY,2018,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,CUNDAY,2018,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,CUNDAY,2019,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,CUNDAY,2019,junio,Visitantes extranjeros no residentes,1
+TOLIMA,CUNDAY,2019,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,CUNDAY,2021,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,CUNDAY,2021,julio,Visitantes extranjeros no residentes,1
+TOLIMA,CUNDAY,2021,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,CUNDAY,2021,diciembre,Visitantes extranjeros no residentes,2
+TOLIMA,CUNDAY,2022,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,CUNDAY,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,28
+TOLIMA,CUNDAY,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,
+TOLIMA,CUNDAY,2022,julio,Prestadores de servicios turísticos activos en RNT,8
+TOLIMA,CUNDAY,2022,julio,Establecimientos de alojamiento y hospedaje,7
+TOLIMA,DOLORES,2018,junio,Visitantes extranjeros no residentes,3
+TOLIMA,DOLORES,2020,enero,Visitantes extranjeros no residentes,1
+TOLIMA,DOLORES,2022,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,DOLORES,2022,junio,Visitantes extranjeros no residentes,2
+TOLIMA,DOLORES,2022,julio,Prestadores de servicios turísticos activos en RNT,1
+TOLIMA,DOLORES,2022,julio,Visitantes extranjeros no residentes,
+TOLIMA,ESPINAL,2018,enero,Visitantes extranjeros no residentes,6
+TOLIMA,ESPINAL,2018,febrero,Visitantes extranjeros no residentes,9
+TOLIMA,ESPINAL,2018,marzo,Visitantes extranjeros no residentes,7
+TOLIMA,ESPINAL,2018,abril,Visitantes extranjeros no residentes,7
+TOLIMA,ESPINAL,2018,mayo,Visitantes extranjeros no residentes,5
+TOLIMA,ESPINAL,2018,mayo,llegadas pasajeros Nacionales,2
+TOLIMA,ESPINAL,2018,junio,Visitantes extranjeros no residentes,29
+TOLIMA,ESPINAL,2018,julio,Visitantes extranjeros no residentes,16
+TOLIMA,ESPINAL,2018,agosto,Visitantes extranjeros no residentes,17
+TOLIMA,ESPINAL,2018,septiembre,Visitantes extranjeros no residentes,9
+TOLIMA,ESPINAL,2018,octubre,Visitantes extranjeros no residentes,4
+TOLIMA,ESPINAL,2018,noviembre,Visitantes extranjeros no residentes,9
+TOLIMA,ESPINAL,2018,diciembre,Visitantes extranjeros no residentes,29
+TOLIMA,ESPINAL,2019,enero,Visitantes extranjeros no residentes,6
+TOLIMA,ESPINAL,2019,febrero,Visitantes extranjeros no residentes,5
+TOLIMA,ESPINAL,2019,marzo,Visitantes extranjeros no residentes,3
+TOLIMA,ESPINAL,2019,abril,Visitantes extranjeros no residentes,4
+TOLIMA,ESPINAL,2019,mayo,Visitantes extranjeros no residentes,13
+TOLIMA,ESPINAL,2019,junio,Visitantes extranjeros no residentes,58
+TOLIMA,ESPINAL,2019,julio,Visitantes extranjeros no residentes,80
+TOLIMA,ESPINAL,2019,agosto,Visitantes extranjeros no residentes,5
+TOLIMA,ESPINAL,2019,septiembre,Visitantes extranjeros no residentes,13
+TOLIMA,ESPINAL,2019,octubre,Visitantes extranjeros no residentes,9
+TOLIMA,ESPINAL,2019,noviembre,Visitantes extranjeros no residentes,15
+TOLIMA,ESPINAL,2019,diciembre,Visitantes extranjeros no residentes,13
+TOLIMA,ESPINAL,2020,enero,Visitantes extranjeros no residentes,10
+TOLIMA,ESPINAL,2020,febrero,Visitantes extranjeros no residentes,11
+TOLIMA,ESPINAL,2020,marzo,llegadas pasajeros Nacionales,7
+TOLIMA,ESPINAL,2020,marzo,Visitantes extranjeros no residentes,6
+TOLIMA,ESPINAL,2020,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,ESPINAL,2020,octubre,Visitantes extranjeros no residentes,6
+TOLIMA,ESPINAL,2020,octubre,llegadas pasajeros Nacionales,1
+TOLIMA,ESPINAL,2020,noviembre,Visitantes extranjeros no residentes,4
+TOLIMA,ESPINAL,2020,noviembre,llegadas pasajeros Nacionales,2
+TOLIMA,ESPINAL,2020,diciembre,Visitantes extranjeros no residentes,10
+TOLIMA,ESPINAL,2020,diciembre,llegadas pasajeros Nacionales,0
+TOLIMA,ESPINAL,2021,enero,Visitantes extranjeros no residentes,5
+TOLIMA,ESPINAL,2021,febrero,llegadas pasajeros Nacionales,7
+TOLIMA,ESPINAL,2021,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,ESPINAL,2021,marzo,Visitantes extranjeros no residentes,8
+TOLIMA,ESPINAL,2021,marzo,llegadas pasajeros Nacionales,2
+TOLIMA,ESPINAL,2021,abril,Visitantes extranjeros no residentes,5
+TOLIMA,ESPINAL,2021,abril,llegadas pasajeros Nacionales,1
+TOLIMA,ESPINAL,2021,mayo,llegadas pasajeros Nacionales,6
+TOLIMA,ESPINAL,2021,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,ESPINAL,2021,junio,Visitantes extranjeros no residentes,6
+TOLIMA,ESPINAL,2021,junio,llegadas pasajeros Nacionales,2
+TOLIMA,ESPINAL,2021,julio,Visitantes extranjeros no residentes,6
+TOLIMA,ESPINAL,2021,julio,llegadas pasajeros Nacionales,1
+TOLIMA,ESPINAL,2021,agosto,llegadas pasajeros Nacionales,6
+TOLIMA,ESPINAL,2021,agosto,Visitantes extranjeros no residentes,5
+TOLIMA,ESPINAL,2021,septiembre,Visitantes extranjeros no residentes,7
+TOLIMA,ESPINAL,2021,septiembre,llegadas pasajeros Nacionales,2
+TOLIMA,ESPINAL,2021,octubre,Visitantes extranjeros no residentes,7
+TOLIMA,ESPINAL,2021,noviembre,llegadas pasajeros Nacionales,11
+TOLIMA,ESPINAL,2021,noviembre,Visitantes extranjeros no residentes,8
+TOLIMA,ESPINAL,2021,diciembre,Visitantes extranjeros no residentes,10
+TOLIMA,ESPINAL,2021,diciembre,llegadas pasajeros Nacionales,1
+TOLIMA,ESPINAL,2022,enero,Visitantes extranjeros no residentes,19
+TOLIMA,ESPINAL,2022,enero,llegadas pasajeros Nacionales,1
+TOLIMA,ESPINAL,2022,febrero,Visitantes extranjeros no residentes,14
+TOLIMA,ESPINAL,2022,febrero,llegadas pasajeros Nacionales,8
+TOLIMA,ESPINAL,2022,marzo,llegadas pasajeros Nacionales,9
+TOLIMA,ESPINAL,2022,marzo,Visitantes extranjeros no residentes,
+TOLIMA,ESPINAL,2022,abril,llegadas pasajeros Nacionales,9
+TOLIMA,ESPINAL,2022,abril,Visitantes extranjeros no residentes,8
+TOLIMA,ESPINAL,2022,mayo,llegadas pasajeros Nacionales,11
+TOLIMA,ESPINAL,2022,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,ESPINAL,2022,junio,Visitantes extranjeros no residentes,26
+TOLIMA,ESPINAL,2022,junio,llegadas pasajeros Nacionales,3
+TOLIMA,ESPINAL,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,1056
+TOLIMA,ESPINAL,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,696
+TOLIMA,ESPINAL,2022,julio,Prestadores de servicios turísticos activos en RNT,70
+TOLIMA,ESPINAL,2022,julio,Establecimientos de alojamiento y hospedaje,53
+TOLIMA,ESPINAL,2022,julio,Visitantes extranjeros no residentes,25
+TOLIMA,FALAN,2018,enero,Visitantes extranjeros no residentes,2
+TOLIMA,FALAN,2018,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,FALAN,2018,abril,Visitantes extranjeros no residentes,1
+TOLIMA,FALAN,2018,septiembre,Visitantes extranjeros no residentes,4
+TOLIMA,FALAN,2019,enero,Visitantes extranjeros no residentes,1
+TOLIMA,FALAN,2019,abril,Visitantes extranjeros no residentes,1
+TOLIMA,FALAN,2019,julio,Visitantes extranjeros no residentes,2
+TOLIMA,FALAN,2020,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,FALAN,2021,enero,Visitantes extranjeros no residentes,6
+TOLIMA,FALAN,2021,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,FALAN,2022,julio,Prestadores de servicios turísticos activos en RNT,5
+TOLIMA,FALAN,2022,julio,Visitantes extranjeros no residentes,3
+TOLIMA,FALAN,2022,julio,Establecimientos de alojamiento y hospedaje,2
+TOLIMA,FLANDES,2018,enero,llegadas pasajeros Nacionales,48
+TOLIMA,FLANDES,2018,enero,Visitantes extranjeros no residentes,1
+TOLIMA,FLANDES,2018,febrero,llegadas pasajeros Nacionales,55
+TOLIMA,FLANDES,2018,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,FLANDES,2018,marzo,llegadas pasajeros Nacionales,59
+TOLIMA,FLANDES,2018,marzo,Visitantes extranjeros no residentes,3
+TOLIMA,FLANDES,2018,abril,llegadas pasajeros Nacionales,28
+TOLIMA,FLANDES,2018,abril,Visitantes extranjeros no residentes,2
+TOLIMA,FLANDES,2018,mayo,llegadas pasajeros Nacionales,32
+TOLIMA,FLANDES,2018,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,FLANDES,2018,junio,llegadas pasajeros Nacionales,59
+TOLIMA,FLANDES,2018,junio,Visitantes extranjeros no residentes,3
+TOLIMA,FLANDES,2018,julio,llegadas pasajeros Nacionales,29
+TOLIMA,FLANDES,2018,agosto,llegadas pasajeros Nacionales,50
+TOLIMA,FLANDES,2018,agosto,Visitantes extranjeros no residentes,11
+TOLIMA,FLANDES,2018,septiembre,llegadas pasajeros Nacionales,55
+TOLIMA,FLANDES,2018,septiembre,Visitantes extranjeros no residentes,2
+TOLIMA,FLANDES,2018,octubre,llegadas pasajeros Nacionales,38
+TOLIMA,FLANDES,2018,octubre,Visitantes extranjeros no residentes,4
+TOLIMA,FLANDES,2018,noviembre,llegadas pasajeros Nacionales,50
+TOLIMA,FLANDES,2018,noviembre,Visitantes extranjeros no residentes,4
+TOLIMA,FLANDES,2018,diciembre,llegadas pasajeros Nacionales,88
+TOLIMA,FLANDES,2018,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,FLANDES,2019,enero,llegadas pasajeros Nacionales,54
+TOLIMA,FLANDES,2019,enero,Visitantes extranjeros no residentes,3
+TOLIMA,FLANDES,2019,febrero,llegadas pasajeros Nacionales,63
+TOLIMA,FLANDES,2019,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,FLANDES,2019,marzo,llegadas pasajeros Nacionales,71
+TOLIMA,FLANDES,2019,marzo,Visitantes extranjeros no residentes,3
+TOLIMA,FLANDES,2019,abril,llegadas pasajeros Nacionales,40
+TOLIMA,FLANDES,2019,abril,Visitantes extranjeros no residentes,5
+TOLIMA,FLANDES,2019,mayo,llegadas pasajeros Nacionales,47
+TOLIMA,FLANDES,2019,junio,llegadas pasajeros Nacionales,72
+TOLIMA,FLANDES,2019,julio,llegadas pasajeros Nacionales,44
+TOLIMA,FLANDES,2019,julio,Visitantes extranjeros no residentes,5
+TOLIMA,FLANDES,2019,agosto,llegadas pasajeros Nacionales,58
+TOLIMA,FLANDES,2019,agosto,Visitantes extranjeros no residentes,6
+TOLIMA,FLANDES,2019,septiembre,llegadas pasajeros Nacionales,37
+TOLIMA,FLANDES,2019,octubre,llegadas pasajeros Nacionales,65
+TOLIMA,FLANDES,2019,octubre,Visitantes extranjeros no residentes,2
+TOLIMA,FLANDES,2019,noviembre,llegadas pasajeros Nacionales,72
+TOLIMA,FLANDES,2019,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,FLANDES,2019,diciembre,llegadas pasajeros Nacionales,43
+TOLIMA,FLANDES,2019,diciembre,Visitantes extranjeros no residentes,4
+TOLIMA,FLANDES,2020,enero,llegadas pasajeros Nacionales,28
+TOLIMA,FLANDES,2020,enero,Visitantes extranjeros no residentes,2
+TOLIMA,FLANDES,2020,febrero,llegadas pasajeros Nacionales,140
+TOLIMA,FLANDES,2020,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,FLANDES,2020,marzo,llegadas pasajeros Nacionales,17
+TOLIMA,FLANDES,2020,marzo,Visitantes extranjeros no residentes,5
+TOLIMA,FLANDES,2020,abril,llegadas pasajeros Nacionales,10
+TOLIMA,FLANDES,2020,mayo,llegadas pasajeros Nacionales,8
+TOLIMA,FLANDES,2020,junio,llegadas pasajeros Nacionales,12
+TOLIMA,FLANDES,2020,julio,llegadas pasajeros Nacionales,23
+TOLIMA,FLANDES,2020,agosto,llegadas pasajeros Nacionales,11
+TOLIMA,FLANDES,2020,septiembre,llegadas pasajeros Nacionales,39
+TOLIMA,FLANDES,2020,octubre,llegadas pasajeros Nacionales,85
+TOLIMA,FLANDES,2020,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,FLANDES,2020,noviembre,llegadas pasajeros Nacionales,60
+TOLIMA,FLANDES,2020,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,FLANDES,2020,diciembre,llegadas pasajeros Nacionales,54
+TOLIMA,FLANDES,2020,diciembre,Visitantes extranjeros no residentes,2
+TOLIMA,FLANDES,2021,enero,llegadas pasajeros Nacionales,24
+TOLIMA,FLANDES,2021,febrero,llegadas pasajeros Nacionales,22
+TOLIMA,FLANDES,2021,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,FLANDES,2021,marzo,llegadas pasajeros Nacionales,41
+TOLIMA,FLANDES,2021,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,FLANDES,2021,abril,llegadas pasajeros Nacionales,19
+TOLIMA,FLANDES,2021,abril,Visitantes extranjeros no residentes,2
+TOLIMA,FLANDES,2021,mayo,llegadas pasajeros Nacionales,48
+TOLIMA,FLANDES,2021,junio,llegadas pasajeros Nacionales,44
+TOLIMA,FLANDES,2021,junio,Visitantes extranjeros no residentes,4
+TOLIMA,FLANDES,2021,julio,llegadas pasajeros Nacionales,16
+TOLIMA,FLANDES,2021,julio,Visitantes extranjeros no residentes,1
+TOLIMA,FLANDES,2021,agosto,llegadas pasajeros Nacionales,54
+TOLIMA,FLANDES,2021,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,FLANDES,2021,septiembre,llegadas pasajeros Nacionales,28
+TOLIMA,FLANDES,2021,septiembre,Visitantes extranjeros no residentes,3
+TOLIMA,FLANDES,2021,octubre,llegadas pasajeros Nacionales,56
+TOLIMA,FLANDES,2021,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,FLANDES,2021,noviembre,llegadas pasajeros Nacionales,44
+TOLIMA,FLANDES,2021,noviembre,Visitantes extranjeros no residentes,3
+TOLIMA,FLANDES,2021,diciembre,llegadas pasajeros Nacionales,28
+TOLIMA,FLANDES,2021,diciembre,Llegadas internacionales,10
+TOLIMA,FLANDES,2021,diciembre,Visitantes extranjeros no residentes,6
+TOLIMA,FLANDES,2021,diciembre,Salidas internacionales,0
+TOLIMA,FLANDES,2022,enero,llegadas pasajeros Nacionales,55
+TOLIMA,FLANDES,2022,enero,Visitantes extranjeros no residentes,4
+TOLIMA,FLANDES,2022,febrero,llegadas pasajeros Nacionales,80
+TOLIMA,FLANDES,2022,febrero,Visitantes extranjeros no residentes,4
+TOLIMA,FLANDES,2022,marzo,llegadas pasajeros Nacionales,53
+TOLIMA,FLANDES,2022,marzo,Visitantes extranjeros no residentes,11
+TOLIMA,FLANDES,2022,abril,llegadas pasajeros Nacionales,83
+TOLIMA,FLANDES,2022,abril,Visitantes extranjeros no residentes,6
+TOLIMA,FLANDES,2022,mayo,llegadas pasajeros Nacionales,32
+TOLIMA,FLANDES,2022,mayo,Visitantes extranjeros no residentes,4
+TOLIMA,FLANDES,2022,junio,llegadas pasajeros Nacionales,58
+TOLIMA,FLANDES,2022,junio,Visitantes extranjeros no residentes,12
+TOLIMA,FLANDES,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,491
+TOLIMA,FLANDES,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,218
+TOLIMA,FLANDES,2022,julio,Prestadores de servicios turísticos activos en RNT,75
+TOLIMA,FLANDES,2022,julio,Establecimientos de alojamiento y hospedaje,70
+TOLIMA,FLANDES,2022,julio,Visitantes extranjeros no residentes,5
+TOLIMA,FRESNO,2018,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2018,julio,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2018,octubre,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2018,noviembre,Visitantes extranjeros no residentes,5
+TOLIMA,FRESNO,2018,diciembre,Visitantes extranjeros no residentes,7
+TOLIMA,FRESNO,2019,febrero,Visitantes extranjeros no residentes,3
+TOLIMA,FRESNO,2019,marzo,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2019,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2019,junio,Visitantes extranjeros no residentes,5
+TOLIMA,FRESNO,2019,agosto,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2019,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,FRESNO,2019,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2019,diciembre,Visitantes extranjeros no residentes,3
+TOLIMA,FRESNO,2020,enero,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2020,febrero,Visitantes extranjeros no residentes,3
+TOLIMA,FRESNO,2020,octubre,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2020,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2020,diciembre,Visitantes extranjeros no residentes,5
+TOLIMA,FRESNO,2021,enero,Visitantes extranjeros no residentes,6
+TOLIMA,FRESNO,2021,marzo,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2021,abril,Visitantes extranjeros no residentes,1
+TOLIMA,FRESNO,2021,julio,Visitantes extranjeros no residentes,3
+TOLIMA,FRESNO,2021,agosto,Visitantes extranjeros no residentes,7
+TOLIMA,FRESNO,2021,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,FRESNO,2021,octubre,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2021,noviembre,Visitantes extranjeros no residentes,13
+TOLIMA,FRESNO,2021,diciembre,Visitantes extranjeros no residentes,14
+TOLIMA,FRESNO,2022,enero,Visitantes extranjeros no residentes,4
+TOLIMA,FRESNO,2022,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2022,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,FRESNO,2022,abril,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2022,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,FRESNO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,334
+TOLIMA,FRESNO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,265
+TOLIMA,FRESNO,2022,julio,Prestadores de servicios turísticos activos en RNT,21
+TOLIMA,FRESNO,2022,julio,Establecimientos de alojamiento y hospedaje,19
+TOLIMA,FRESNO,2022,julio,Visitantes extranjeros no residentes,2
+TOLIMA,GUAMO,2018,marzo,Visitantes extranjeros no residentes,4
+TOLIMA,GUAMO,2018,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,GUAMO,2018,julio,Visitantes extranjeros no residentes,2
+TOLIMA,GUAMO,2018,agosto,Visitantes extranjeros no residentes,6
+TOLIMA,GUAMO,2018,octubre,Visitantes extranjeros no residentes,3
+TOLIMA,GUAMO,2018,noviembre,Visitantes extranjeros no residentes,5
+TOLIMA,GUAMO,2018,diciembre,Visitantes extranjeros no residentes,4
+TOLIMA,GUAMO,2019,febrero,Visitantes extranjeros no residentes,3
+TOLIMA,GUAMO,2019,febrero,llegadas pasajeros Nacionales,0
+TOLIMA,GUAMO,2019,abril,Visitantes extranjeros no residentes,2
+TOLIMA,GUAMO,2019,mayo,Visitantes extranjeros no residentes,4
+TOLIMA,GUAMO,2019,junio,Visitantes extranjeros no residentes,1
+TOLIMA,GUAMO,2019,julio,Visitantes extranjeros no residentes,1
+TOLIMA,GUAMO,2019,agosto,Visitantes extranjeros no residentes,6
+TOLIMA,GUAMO,2019,septiembre,Visitantes extranjeros no residentes,2
+TOLIMA,GUAMO,2019,noviembre,Visitantes extranjeros no residentes,6
+TOLIMA,GUAMO,2019,diciembre,Visitantes extranjeros no residentes,3
+TOLIMA,GUAMO,2020,enero,Visitantes extranjeros no residentes,2
+TOLIMA,GUAMO,2020,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,GUAMO,2020,noviembre,Visitantes extranjeros no residentes,3
+TOLIMA,GUAMO,2020,diciembre,Visitantes extranjeros no residentes,4
+TOLIMA,GUAMO,2021,enero,Visitantes extranjeros no residentes,1
+TOLIMA,GUAMO,2021,abril,Visitantes extranjeros no residentes,3
+TOLIMA,GUAMO,2021,mayo,Visitantes extranjeros no residentes,4
+TOLIMA,GUAMO,2021,junio,Visitantes extranjeros no residentes,1
+TOLIMA,GUAMO,2021,julio,Visitantes extranjeros no residentes,3
+TOLIMA,GUAMO,2021,agosto,Visitantes extranjeros no residentes,2
+TOLIMA,GUAMO,2021,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,GUAMO,2021,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,GUAMO,2021,noviembre,Visitantes extranjeros no residentes,4
+TOLIMA,GUAMO,2021,diciembre,Visitantes extranjeros no residentes,8
+TOLIMA,GUAMO,2022,enero,Visitantes extranjeros no residentes,2
+TOLIMA,GUAMO,2022,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,GUAMO,2022,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,GUAMO,2022,mayo,Visitantes extranjeros no residentes,4
+TOLIMA,GUAMO,2022,junio,Visitantes extranjeros no residentes,7
+TOLIMA,GUAMO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,287
+TOLIMA,GUAMO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,169
+TOLIMA,GUAMO,2022,julio,Prestadores de servicios turísticos activos en RNT,23
+TOLIMA,GUAMO,2022,julio,Establecimientos de alojamiento y hospedaje,22
+TOLIMA,GUAMO,2022,julio,Visitantes extranjeros no residentes,3
+TOLIMA,HERVEO,2018,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,HERVEO,2019,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,HERVEO,2021,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,HERVEO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,65
+TOLIMA,HERVEO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,55
+TOLIMA,HERVEO,2022,julio,Establecimientos de alojamiento y hospedaje,7
+TOLIMA,HERVEO,2022,julio,Prestadores de servicios turísticos activos en RNT,
+TOLIMA,HONDA,2018,enero,Visitantes extranjeros no residentes,7
+TOLIMA,HONDA,2018,febrero,Visitantes extranjeros no residentes,3
+TOLIMA,HONDA,2018,marzo,Visitantes extranjeros no residentes,7
+TOLIMA,HONDA,2018,abril,Visitantes extranjeros no residentes,2
+TOLIMA,HONDA,2018,mayo,Visitantes extranjeros no residentes,5
+TOLIMA,HONDA,2018,junio,Visitantes extranjeros no residentes,2
+TOLIMA,HONDA,2018,julio,Visitantes extranjeros no residentes,13
+TOLIMA,HONDA,2018,agosto,Visitantes extranjeros no residentes,9
+TOLIMA,HONDA,2018,septiembre,Visitantes extranjeros no residentes,8
+TOLIMA,HONDA,2018,octubre,Visitantes extranjeros no residentes,6
+TOLIMA,HONDA,2018,noviembre,Visitantes extranjeros no residentes,12
+TOLIMA,HONDA,2018,diciembre,Visitantes extranjeros no residentes,8
+TOLIMA,HONDA,2019,enero,Visitantes extranjeros no residentes,7
+TOLIMA,HONDA,2019,febrero,Visitantes extranjeros no residentes,6
+TOLIMA,HONDA,2019,marzo,Visitantes extranjeros no residentes,7
+TOLIMA,HONDA,2019,abril,Visitantes extranjeros no residentes,12
+TOLIMA,HONDA,2019,mayo,Visitantes extranjeros no residentes,3
+TOLIMA,HONDA,2019,junio,Visitantes extranjeros no residentes,5
+TOLIMA,HONDA,2019,julio,Visitantes extranjeros no residentes,12
+TOLIMA,HONDA,2019,agosto,Visitantes extranjeros no residentes,4
+TOLIMA,HONDA,2019,septiembre,Visitantes extranjeros no residentes,5
+TOLIMA,HONDA,2019,octubre,Visitantes extranjeros no residentes,5
+TOLIMA,HONDA,2019,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,HONDA,2019,diciembre,Visitantes extranjeros no residentes,15
+TOLIMA,HONDA,2020,enero,Visitantes extranjeros no residentes,10
+TOLIMA,HONDA,2020,febrero,Visitantes extranjeros no residentes,13
+TOLIMA,HONDA,2020,marzo,Visitantes extranjeros no residentes,6
+TOLIMA,HONDA,2020,octubre,Visitantes extranjeros no residentes,3
+TOLIMA,HONDA,2020,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,HONDA,2020,diciembre,Visitantes extranjeros no residentes,14
+TOLIMA,HONDA,2021,enero,Visitantes extranjeros no residentes,7
+TOLIMA,HONDA,2021,febrero,Visitantes extranjeros no residentes,6
+TOLIMA,HONDA,2021,marzo,Visitantes extranjeros no residentes,5
+TOLIMA,HONDA,2021,abril,Visitantes extranjeros no residentes,5
+TOLIMA,HONDA,2021,mayo,Visitantes extranjeros no residentes,6
+TOLIMA,HONDA,2021,junio,Visitantes extranjeros no residentes,5
+TOLIMA,HONDA,2021,julio,Visitantes extranjeros no residentes,15
+TOLIMA,HONDA,2021,agosto,Visitantes extranjeros no residentes,6
+TOLIMA,HONDA,2021,septiembre,Visitantes extranjeros no residentes,4
+TOLIMA,HONDA,2021,octubre,Visitantes extranjeros no residentes,4
+TOLIMA,HONDA,2021,noviembre,Visitantes extranjeros no residentes,7
+TOLIMA,HONDA,2021,diciembre,Visitantes extranjeros no residentes,26
+TOLIMA,HONDA,2022,enero,Visitantes extranjeros no residentes,7
+TOLIMA,HONDA,2022,febrero,Visitantes extranjeros no residentes,16
+TOLIMA,HONDA,2022,marzo,Visitantes extranjeros no residentes,12
+TOLIMA,HONDA,2022,abril,Visitantes extranjeros no residentes,7
+TOLIMA,HONDA,2022,mayo,Visitantes extranjeros no residentes,12
+TOLIMA,HONDA,2022,junio,Visitantes extranjeros no residentes,15
+TOLIMA,HONDA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,1596
+TOLIMA,HONDA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,864
+TOLIMA,HONDA,2022,julio,Prestadores de servicios turísticos activos en RNT,158
+TOLIMA,HONDA,2022,julio,Establecimientos de alojamiento y hospedaje,141
+TOLIMA,HONDA,2022,julio,Visitantes extranjeros no residentes,10
+TOLIMA,ICONONZO,2018,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,ICONONZO,2018,mayo,Visitantes extranjeros no residentes,3
+TOLIMA,ICONONZO,2018,julio,Visitantes extranjeros no residentes,1
+TOLIMA,ICONONZO,2018,agosto,Visitantes extranjeros no residentes,2
+TOLIMA,ICONONZO,2018,diciembre,Visitantes extranjeros no residentes,2
+TOLIMA,ICONONZO,2019,enero,Visitantes extranjeros no residentes,1
+TOLIMA,ICONONZO,2019,abril,Visitantes extranjeros no residentes,2
+TOLIMA,ICONONZO,2019,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,ICONONZO,2019,junio,Visitantes extranjeros no residentes,1
+TOLIMA,ICONONZO,2019,julio,Visitantes extranjeros no residentes,4
+TOLIMA,ICONONZO,2019,diciembre,Visitantes extranjeros no residentes,3
+TOLIMA,ICONONZO,2020,enero,Visitantes extranjeros no residentes,1
+TOLIMA,ICONONZO,2020,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,ICONONZO,2020,marzo,Visitantes extranjeros no residentes,3
+TOLIMA,ICONONZO,2020,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,ICONONZO,2020,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,ICONONZO,2021,enero,Visitantes extranjeros no residentes,2
+TOLIMA,ICONONZO,2021,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,ICONONZO,2021,abril,Visitantes extranjeros no residentes,2
+TOLIMA,ICONONZO,2021,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,ICONONZO,2021,octubre,Visitantes extranjeros no residentes,2
+TOLIMA,ICONONZO,2021,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,ICONONZO,2021,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,ICONONZO,2022,enero,Visitantes extranjeros no residentes,3
+TOLIMA,ICONONZO,2022,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,ICONONZO,2022,marzo,Visitantes extranjeros no residentes,4
+TOLIMA,ICONONZO,2022,abril,Visitantes extranjeros no residentes,1
+TOLIMA,ICONONZO,2022,junio,Visitantes extranjeros no residentes,2
+TOLIMA,ICONONZO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,154
+TOLIMA,ICONONZO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,84
+TOLIMA,ICONONZO,2022,julio,Prestadores de servicios turísticos activos en RNT,13
+TOLIMA,ICONONZO,2022,julio,Establecimientos de alojamiento y hospedaje,11
+TOLIMA,ICONONZO,2022,julio,Visitantes extranjeros no residentes,4
+TOLIMA,MARIQUITA,2018,enero,llegadas pasajeros Nacionales,16
+TOLIMA,MARIQUITA,2018,enero,Visitantes extranjeros no residentes,2
+TOLIMA,MARIQUITA,2018,febrero,llegadas pasajeros Nacionales,2
+TOLIMA,MARIQUITA,2018,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,MARIQUITA,2018,marzo,llegadas pasajeros Nacionales,9
+TOLIMA,MARIQUITA,2018,marzo,Visitantes extranjeros no residentes,2
+TOLIMA,MARIQUITA,2018,abril,llegadas pasajeros Nacionales,7
+TOLIMA,MARIQUITA,2018,abril,Visitantes extranjeros no residentes,3
+TOLIMA,MARIQUITA,2018,mayo,llegadas pasajeros Nacionales,20
+TOLIMA,MARIQUITA,2018,junio,llegadas pasajeros Nacionales,8
+TOLIMA,MARIQUITA,2018,junio,Visitantes extranjeros no residentes,5
+TOLIMA,MARIQUITA,2018,julio,llegadas pasajeros Nacionales,26
+TOLIMA,MARIQUITA,2018,julio,Visitantes extranjeros no residentes,4
+TOLIMA,MARIQUITA,2018,agosto,llegadas pasajeros Nacionales,9
+TOLIMA,MARIQUITA,2018,agosto,Visitantes extranjeros no residentes,2
+TOLIMA,MARIQUITA,2018,septiembre,llegadas pasajeros Nacionales,13
+TOLIMA,MARIQUITA,2018,octubre,llegadas pasajeros Nacionales,7
+TOLIMA,MARIQUITA,2018,noviembre,llegadas pasajeros Nacionales,20
+TOLIMA,MARIQUITA,2018,diciembre,llegadas pasajeros Nacionales,14
+TOLIMA,MARIQUITA,2018,diciembre,Visitantes extranjeros no residentes,7
+TOLIMA,MARIQUITA,2019,enero,llegadas pasajeros Nacionales,28
+TOLIMA,MARIQUITA,2019,enero,Visitantes extranjeros no residentes,2
+TOLIMA,MARIQUITA,2019,febrero,llegadas pasajeros Nacionales,21
+TOLIMA,MARIQUITA,2019,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,MARIQUITA,2019,marzo,llegadas pasajeros Nacionales,11
+TOLIMA,MARIQUITA,2019,marzo,Visitantes extranjeros no residentes,4
+TOLIMA,MARIQUITA,2019,abril,llegadas pasajeros Nacionales,19
+TOLIMA,MARIQUITA,2019,mayo,llegadas pasajeros Nacionales,10
+TOLIMA,MARIQUITA,2019,mayo,Visitantes extranjeros no residentes,4
+TOLIMA,MARIQUITA,2019,junio,llegadas pasajeros Nacionales,23
+TOLIMA,MARIQUITA,2019,junio,Visitantes extranjeros no residentes,7
+TOLIMA,MARIQUITA,2019,julio,llegadas pasajeros Nacionales,12
+TOLIMA,MARIQUITA,2019,julio,Visitantes extranjeros no residentes,1
+TOLIMA,MARIQUITA,2019,agosto,llegadas pasajeros Nacionales,48
+TOLIMA,MARIQUITA,2019,agosto,Visitantes extranjeros no residentes,4
+TOLIMA,MARIQUITA,2019,septiembre,llegadas pasajeros Nacionales,28
+TOLIMA,MARIQUITA,2019,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,MARIQUITA,2019,octubre,llegadas pasajeros Nacionales,6
+TOLIMA,MARIQUITA,2019,octubre,Visitantes extranjeros no residentes,4
+TOLIMA,MARIQUITA,2019,noviembre,llegadas pasajeros Nacionales,8
+TOLIMA,MARIQUITA,2019,noviembre,Visitantes extranjeros no residentes,3
+TOLIMA,MARIQUITA,2019,diciembre,llegadas pasajeros Nacionales,32
+TOLIMA,MARIQUITA,2019,diciembre,Visitantes extranjeros no residentes,8
+TOLIMA,MARIQUITA,2020,enero,Visitantes extranjeros no residentes,7
+TOLIMA,MARIQUITA,2020,enero,llegadas pasajeros Nacionales,0
+TOLIMA,MARIQUITA,2020,febrero,llegadas pasajeros Nacionales,6
+TOLIMA,MARIQUITA,2020,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,MARIQUITA,2020,marzo,llegadas pasajeros Nacionales,5
+TOLIMA,MARIQUITA,2020,mayo,llegadas pasajeros Nacionales,4
+TOLIMA,MARIQUITA,2020,junio,llegadas pasajeros Nacionales,3
+TOLIMA,MARIQUITA,2020,julio,llegadas pasajeros Nacionales,2
+TOLIMA,MARIQUITA,2020,agosto,llegadas pasajeros Nacionales,5
+TOLIMA,MARIQUITA,2020,septiembre,llegadas pasajeros Nacionales,10
+TOLIMA,MARIQUITA,2020,octubre,llegadas pasajeros Nacionales,8
+TOLIMA,MARIQUITA,2020,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,MARIQUITA,2020,noviembre,llegadas pasajeros Nacionales,7
+TOLIMA,MARIQUITA,2020,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,MARIQUITA,2020,diciembre,Visitantes extranjeros no residentes,17
+TOLIMA,MARIQUITA,2020,diciembre,llegadas pasajeros Nacionales,10
+TOLIMA,MARIQUITA,2021,enero,llegadas pasajeros Nacionales,8
+TOLIMA,MARIQUITA,2021,enero,Visitantes extranjeros no residentes,5
+TOLIMA,MARIQUITA,2021,febrero,llegadas pasajeros Nacionales,3
+TOLIMA,MARIQUITA,2021,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,MARIQUITA,2021,marzo,llegadas pasajeros Nacionales,9
+TOLIMA,MARIQUITA,2021,marzo,Visitantes extranjeros no residentes,
+TOLIMA,MARIQUITA,2021,abril,llegadas pasajeros Nacionales,9
+TOLIMA,MARIQUITA,2021,abril,Visitantes extranjeros no residentes,5
+TOLIMA,MARIQUITA,2021,mayo,llegadas pasajeros Nacionales,8
+TOLIMA,MARIQUITA,2021,mayo,Visitantes extranjeros no residentes,5
+TOLIMA,MARIQUITA,2021,junio,llegadas pasajeros Nacionales,9
+TOLIMA,MARIQUITA,2021,junio,Visitantes extranjeros no residentes,3
+TOLIMA,MARIQUITA,2021,julio,llegadas pasajeros Nacionales,12
+TOLIMA,MARIQUITA,2021,julio,Visitantes extranjeros no residentes,4
+TOLIMA,MARIQUITA,2021,agosto,llegadas pasajeros Nacionales,5
+TOLIMA,MARIQUITA,2021,agosto,Visitantes extranjeros no residentes,3
+TOLIMA,MARIQUITA,2021,septiembre,llegadas pasajeros Nacionales,10
+TOLIMA,MARIQUITA,2021,septiembre,Visitantes extranjeros no residentes,9
+TOLIMA,MARIQUITA,2021,octubre,llegadas pasajeros Nacionales,22
+TOLIMA,MARIQUITA,2021,octubre,Visitantes extranjeros no residentes,4
+TOLIMA,MARIQUITA,2021,noviembre,Visitantes extranjeros no residentes,12
+TOLIMA,MARIQUITA,2021,noviembre,llegadas pasajeros Nacionales,2
+TOLIMA,MARIQUITA,2021,diciembre,Visitantes extranjeros no residentes,13
+TOLIMA,MARIQUITA,2021,diciembre,llegadas pasajeros Nacionales,4
+TOLIMA,MARIQUITA,2022,enero,Visitantes extranjeros no residentes,23
+TOLIMA,MARIQUITA,2022,enero,llegadas pasajeros Nacionales,3
+TOLIMA,MARIQUITA,2022,febrero,Visitantes extranjeros no residentes,9
+TOLIMA,MARIQUITA,2022,febrero,llegadas pasajeros Nacionales,2
+TOLIMA,MARIQUITA,2022,marzo,Visitantes extranjeros no residentes,4
+TOLIMA,MARIQUITA,2022,marzo,llegadas pasajeros Nacionales,0
+TOLIMA,MARIQUITA,2022,abril,Visitantes extranjeros no residentes,14
+TOLIMA,MARIQUITA,2022,abril,llegadas pasajeros Nacionales,12
+TOLIMA,MARIQUITA,2022,mayo,Visitantes extranjeros no residentes,4
+TOLIMA,MARIQUITA,2022,mayo,llegadas pasajeros Nacionales,2
+TOLIMA,MARIQUITA,2022,junio,Visitantes extranjeros no residentes,17
+TOLIMA,MARIQUITA,2022,junio,llegadas pasajeros Nacionales,0
+TOLIMA,MARIQUITA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,2200
+TOLIMA,MARIQUITA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,1094
+TOLIMA,MARIQUITA,2022,julio,Prestadores de servicios turísticos activos en RNT,138
+TOLIMA,MARIQUITA,2022,julio,Establecimientos de alojamiento y hospedaje,124
+TOLIMA,MARIQUITA,2022,julio,Visitantes extranjeros no residentes,14
+TOLIMA,MELGAR,2018,enero,Visitantes extranjeros no residentes,68
+TOLIMA,MELGAR,2018,febrero,Visitantes extranjeros no residentes,16
+TOLIMA,MELGAR,2018,marzo,Visitantes extranjeros no residentes,38
+TOLIMA,MELGAR,2018,abril,Visitantes extranjeros no residentes,27
+TOLIMA,MELGAR,2018,mayo,Visitantes extranjeros no residentes,26
+TOLIMA,MELGAR,2018,junio,llegadas pasajeros Nacionales,127
+TOLIMA,MELGAR,2018,junio,Visitantes extranjeros no residentes,49
+TOLIMA,MELGAR,2018,julio,Visitantes extranjeros no residentes,32
+TOLIMA,MELGAR,2018,julio,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2018,agosto,Visitantes extranjeros no residentes,52
+TOLIMA,MELGAR,2018,septiembre,llegadas pasajeros Nacionales,40
+TOLIMA,MELGAR,2018,septiembre,Visitantes extranjeros no residentes,32
+TOLIMA,MELGAR,2018,octubre,Visitantes extranjeros no residentes,280
+TOLIMA,MELGAR,2018,noviembre,Visitantes extranjeros no residentes,36
+TOLIMA,MELGAR,2018,diciembre,Visitantes extranjeros no residentes,31
+TOLIMA,MELGAR,2018,diciembre,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2019,enero,Visitantes extranjeros no residentes,43
+TOLIMA,MELGAR,2019,enero,llegadas pasajeros Nacionales,7
+TOLIMA,MELGAR,2019,febrero,Visitantes extranjeros no residentes,42
+TOLIMA,MELGAR,2019,febrero,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2019,marzo,Visitantes extranjeros no residentes,37
+TOLIMA,MELGAR,2019,marzo,llegadas pasajeros Nacionales,33
+TOLIMA,MELGAR,2019,abril,Visitantes extranjeros no residentes,36
+TOLIMA,MELGAR,2019,mayo,Visitantes extranjeros no residentes,45
+TOLIMA,MELGAR,2019,junio,Visitantes extranjeros no residentes,50
+TOLIMA,MELGAR,2019,julio,Visitantes extranjeros no residentes,66
+TOLIMA,MELGAR,2019,julio,llegadas pasajeros Nacionales,44
+TOLIMA,MELGAR,2019,agosto,Visitantes extranjeros no residentes,207
+TOLIMA,MELGAR,2019,septiembre,Visitantes extranjeros no residentes,63
+TOLIMA,MELGAR,2019,septiembre,llegadas pasajeros Nacionales,46
+TOLIMA,MELGAR,2019,octubre,llegadas pasajeros Nacionales,74
+TOLIMA,MELGAR,2019,octubre,Visitantes extranjeros no residentes,32
+TOLIMA,MELGAR,2019,noviembre,Visitantes extranjeros no residentes,54
+TOLIMA,MELGAR,2019,diciembre,Visitantes extranjeros no residentes,53
+TOLIMA,MELGAR,2019,diciembre,llegadas pasajeros Nacionales,39
+TOLIMA,MELGAR,2020,enero,Visitantes extranjeros no residentes,68
+TOLIMA,MELGAR,2020,febrero,Visitantes extranjeros no residentes,60
+TOLIMA,MELGAR,2020,marzo,Visitantes extranjeros no residentes,28
+TOLIMA,MELGAR,2020,junio,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2020,julio,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2020,agosto,llegadas pasajeros Nacionales,18
+TOLIMA,MELGAR,2020,agosto,Visitantes extranjeros no residentes,6
+TOLIMA,MELGAR,2020,septiembre,Visitantes extranjeros no residentes,33
+TOLIMA,MELGAR,2020,septiembre,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2020,octubre,Visitantes extranjeros no residentes,26
+TOLIMA,MELGAR,2020,noviembre,Visitantes extranjeros no residentes,33
+TOLIMA,MELGAR,2020,diciembre,Visitantes extranjeros no residentes,32
+TOLIMA,MELGAR,2021,enero,Visitantes extranjeros no residentes,34
+TOLIMA,MELGAR,2021,febrero,Visitantes extranjeros no residentes,13
+TOLIMA,MELGAR,2021,febrero,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2021,marzo,Visitantes extranjeros no residentes,13
+TOLIMA,MELGAR,2021,abril,Visitantes extranjeros no residentes,20
+TOLIMA,MELGAR,2021,mayo,Visitantes extranjeros no residentes,15
+TOLIMA,MELGAR,2021,junio,Visitantes extranjeros no residentes,32
+TOLIMA,MELGAR,2021,julio,Visitantes extranjeros no residentes,66
+TOLIMA,MELGAR,2021,julio,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2021,agosto,Visitantes extranjeros no residentes,41
+TOLIMA,MELGAR,2021,agosto,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2021,septiembre,Visitantes extranjeros no residentes,44
+TOLIMA,MELGAR,2021,septiembre,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2021,octubre,Visitantes extranjeros no residentes,27
+TOLIMA,MELGAR,2021,octubre,llegadas pasajeros Nacionales,12
+TOLIMA,MELGAR,2021,noviembre,Visitantes extranjeros no residentes,29
+TOLIMA,MELGAR,2021,noviembre,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2021,diciembre,Visitantes extranjeros no residentes,68
+TOLIMA,MELGAR,2021,diciembre,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2022,enero,Visitantes extranjeros no residentes,62
+TOLIMA,MELGAR,2022,enero,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2022,febrero,Visitantes extranjeros no residentes,46
+TOLIMA,MELGAR,2022,febrero,llegadas pasajeros Nacionales,15
+TOLIMA,MELGAR,2022,marzo,Visitantes extranjeros no residentes,59
+TOLIMA,MELGAR,2022,marzo,llegadas pasajeros Nacionales,0
+TOLIMA,MELGAR,2022,abril,Visitantes extranjeros no residentes,34
+TOLIMA,MELGAR,2022,mayo,Visitantes extranjeros no residentes,31
+TOLIMA,MELGAR,2022,junio,Visitantes extranjeros no residentes,17
+TOLIMA,MELGAR,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,12667
+TOLIMA,MELGAR,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,5089
+TOLIMA,MELGAR,2022,julio,Prestadores de servicios turísticos activos en RNT,651
+TOLIMA,MELGAR,2022,julio,Establecimientos de alojamiento y hospedaje,609
+TOLIMA,MELGAR,2022,julio,Visitantes extranjeros no residentes,94
+TOLIMA,MURILLO,2018,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,MURILLO,2018,mayo,Visitantes extranjeros no residentes,1
+TOLIMA,MURILLO,2019,abril,Visitantes extranjeros no residentes,2
+TOLIMA,MURILLO,2019,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,MURILLO,2019,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,MURILLO,2022,enero,Visitantes extranjeros no residentes,1
+TOLIMA,MURILLO,2022,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,MURILLO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,187
+TOLIMA,MURILLO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,73
+TOLIMA,MURILLO,2022,julio,Prestadores de servicios turísticos activos en RNT,25
+TOLIMA,MURILLO,2022,julio,Establecimientos de alojamiento y hospedaje,15
+TOLIMA,MURILLO,2022,julio,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2018,febrero,Llegadas internacionales,2
+TOLIMA,NATAGAIMA,2018,abril,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2018,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2018,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2019,mayo,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2019,agosto,llegadas pasajeros Nacionales,21
+TOLIMA,NATAGAIMA,2019,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2019,septiembre,llegadas pasajeros Nacionales,21
+TOLIMA,NATAGAIMA,2019,septiembre,Visitantes extranjeros no residentes,3
+TOLIMA,NATAGAIMA,2019,octubre,llegadas pasajeros Nacionales,44
+TOLIMA,NATAGAIMA,2019,noviembre,llegadas pasajeros Nacionales,53
+TOLIMA,NATAGAIMA,2019,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2019,diciembre,llegadas pasajeros Nacionales,47
+TOLIMA,NATAGAIMA,2019,diciembre,Visitantes extranjeros no residentes,2
+TOLIMA,NATAGAIMA,2020,enero,llegadas pasajeros Nacionales,33
+TOLIMA,NATAGAIMA,2020,enero,Visitantes extranjeros no residentes,2
+TOLIMA,NATAGAIMA,2020,febrero,llegadas pasajeros Nacionales,7
+TOLIMA,NATAGAIMA,2020,marzo,llegadas pasajeros Nacionales,14
+TOLIMA,NATAGAIMA,2020,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2020,noviembre,llegadas pasajeros Nacionales,1
+TOLIMA,NATAGAIMA,2021,abril,Visitantes extranjeros no residentes,2
+TOLIMA,NATAGAIMA,2021,junio,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2021,julio,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2021,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2021,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2021,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2022,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,NATAGAIMA,2022,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2022,mayo,Visitantes extranjeros no residentes,1
+TOLIMA,NATAGAIMA,2022,junio,Visitantes extranjeros no residentes,3
+TOLIMA,NATAGAIMA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,76
+TOLIMA,NATAGAIMA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,51
+TOLIMA,NATAGAIMA,2022,julio,Prestadores de servicios turísticos activos en RNT,7
+TOLIMA,NATAGAIMA,2022,julio,Establecimientos de alojamiento y hospedaje,4
+TOLIMA,NATAGAIMA,2022,julio,Visitantes extranjeros no residentes,1
+TOLIMA,ORTEGA,2018,febrero,Visitantes extranjeros no residentes,3
+TOLIMA,ORTEGA,2018,abril,Visitantes extranjeros no residentes,3
+TOLIMA,ORTEGA,2018,junio,Visitantes extranjeros no residentes,1
+TOLIMA,ORTEGA,2018,julio,Visitantes extranjeros no residentes,1
+TOLIMA,ORTEGA,2019,abril,Visitantes extranjeros no residentes,1
+TOLIMA,ORTEGA,2019,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,ORTEGA,2019,diciembre,Visitantes extranjeros no residentes,5
+TOLIMA,ORTEGA,2020,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,ORTEGA,2021,abril,Visitantes extranjeros no residentes,1
+TOLIMA,ORTEGA,2021,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,ORTEGA,2021,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,ORTEGA,2022,enero,Visitantes extranjeros no residentes,3
+TOLIMA,ORTEGA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,166
+TOLIMA,ORTEGA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,105
+TOLIMA,ORTEGA,2022,julio,Establecimientos de alojamiento y hospedaje,6
+TOLIMA,ORTEGA,2022,julio,Prestadores de servicios turísticos activos en RNT,
+TOLIMA,ORTEGA,2022,julio,Visitantes extranjeros no residentes,2
+TOLIMA,PALOCABILDO,2018,junio,Visitantes extranjeros no residentes,2
+TOLIMA,PALOCABILDO,2018,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,PALOCABILDO,2018,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,PALOCABILDO,2020,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,PALOCABILDO,2021,marzo,Visitantes extranjeros no residentes,3
+TOLIMA,PALOCABILDO,2021,septiembre,Visitantes extranjeros no residentes,2
+TOLIMA,PALOCABILDO,2022,enero,Visitantes extranjeros no residentes,1
+TOLIMA,PALOCABILDO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,10
+TOLIMA,PALOCABILDO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,9
+TOLIMA,PALOCABILDO,2022,julio,Establecimientos de alojamiento y hospedaje,1
+TOLIMA,PALOCABILDO,2022,julio,Prestadores de servicios turísticos activos en RNT,
+TOLIMA,PIEDRAS,2018,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,PIEDRAS,2018,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,PIEDRAS,2019,abril,Visitantes extranjeros no residentes,2
+TOLIMA,PIEDRAS,2019,junio,Visitantes extranjeros no residentes,1
+TOLIMA,PIEDRAS,2021,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,PIEDRAS,2021,octubre,Visitantes extranjeros no residentes,3
+TOLIMA,PIEDRAS,2021,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,PIEDRAS,2022,abril,Visitantes extranjeros no residentes,1
+TOLIMA,PIEDRAS,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,65
+TOLIMA,PIEDRAS,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,40
+TOLIMA,PIEDRAS,2022,julio,Establecimientos de alojamiento y hospedaje,4
+TOLIMA,PIEDRAS,2022,julio,Prestadores de servicios turísticos activos en RNT,
+TOLIMA,PIEDRAS,2022,julio,Visitantes extranjeros no residentes,2
+TOLIMA,PLANADAS,2018,febrero,Visitantes extranjeros no residentes,4
+TOLIMA,PLANADAS,2018,mayo,Visitantes extranjeros no residentes,2
+TOLIMA,PLANADAS,2018,julio,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2018,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2018,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2018,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2018,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2018,diciembre,Visitantes extranjeros no residentes,5
+TOLIMA,PLANADAS,2019,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,PLANADAS,2019,abril,Visitantes extranjeros no residentes,2
+TOLIMA,PLANADAS,2019,abril,llegadas pasajeros Nacionales,1
+TOLIMA,PLANADAS,2019,mayo,llegadas pasajeros Nacionales,2
+TOLIMA,PLANADAS,2019,mayo,Visitantes extranjeros no residentes,
+TOLIMA,PLANADAS,2019,junio,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2019,agosto,Visitantes extranjeros no residentes,3
+TOLIMA,PLANADAS,2019,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2019,octubre,Visitantes extranjeros no residentes,2
+TOLIMA,PLANADAS,2019,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2019,diciembre,Visitantes extranjeros no residentes,3
+TOLIMA,PLANADAS,2020,enero,llegadas pasajeros Nacionales,8
+TOLIMA,PLANADAS,2020,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2020,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2020,octubre,Visitantes extranjeros no residentes,2
+TOLIMA,PLANADAS,2020,noviembre,llegadas pasajeros Nacionales,8
+TOLIMA,PLANADAS,2020,diciembre,Visitantes extranjeros no residentes,2
+TOLIMA,PLANADAS,2021,enero,Visitantes extranjeros no residentes,2
+TOLIMA,PLANADAS,2021,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2021,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2021,octubre,Visitantes extranjeros no residentes,3
+TOLIMA,PLANADAS,2021,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2021,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2022,enero,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2022,abril,Visitantes extranjeros no residentes,1
+TOLIMA,PLANADAS,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,80
+TOLIMA,PLANADAS,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,62
+TOLIMA,PLANADAS,2022,julio,Prestadores de servicios turísticos activos en RNT,13
+TOLIMA,PLANADAS,2022,julio,Establecimientos de alojamiento y hospedaje,8
+TOLIMA,PLANADAS,2022,julio,Visitantes extranjeros no residentes,6
+TOLIMA,PRADO,2018,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,PRADO,2018,junio,Visitantes extranjeros no residentes,4
+TOLIMA,PRADO,2018,septiembre,Visitantes extranjeros no residentes,2
+TOLIMA,PRADO,2018,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,PRADO,2019,enero,Visitantes extranjeros no residentes,1
+TOLIMA,PRADO,2019,julio,Visitantes extranjeros no residentes,1
+TOLIMA,PRADO,2019,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,PRADO,2019,octubre,Visitantes extranjeros no residentes,3
+TOLIMA,PRADO,2019,diciembre,Visitantes extranjeros no residentes,4
+TOLIMA,PRADO,2020,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,PRADO,2021,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,PRADO,2021,mayo,Visitantes extranjeros no residentes,1
+TOLIMA,PRADO,2021,agosto,Visitantes extranjeros no residentes,1
+TOLIMA,PRADO,2021,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,PRADO,2022,febrero,Visitantes extranjeros no residentes,3
+TOLIMA,PRADO,2022,marzo,Visitantes extranjeros no residentes,2
+TOLIMA,PRADO,2022,abril,Visitantes extranjeros no residentes,1
+TOLIMA,PRADO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,704
+TOLIMA,PRADO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,279
+TOLIMA,PRADO,2022,julio,Prestadores de servicios turísticos activos en RNT,45
+TOLIMA,PRADO,2022,julio,Establecimientos de alojamiento y hospedaje,41
+TOLIMA,RIOBLANCO,2018,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,RIOBLANCO,2019,febrero,Visitantes extranjeros no residentes,3
+TOLIMA,RIOBLANCO,2022,junio,Visitantes extranjeros no residentes,1
+TOLIMA,RIOBLANCO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,34
+TOLIMA,RIOBLANCO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,22
+TOLIMA,RIOBLANCO,2022,julio,Establecimientos de alojamiento y hospedaje,1
+TOLIMA,RIOBLANCO,2022,julio,Prestadores de servicios turísticos activos en RNT,
+TOLIMA,RONCESVALLES,2019,enero,Visitantes extranjeros no residentes,2
+TOLIMA,RONCESVALLES,2021,abril,Visitantes extranjeros no residentes,1
+TOLIMA,RONCESVALLES,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,53
+TOLIMA,RONCESVALLES,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,40
+TOLIMA,RONCESVALLES,2022,julio,Establecimientos de alojamiento y hospedaje,4
+TOLIMA,RONCESVALLES,2022,julio,Prestadores de servicios turísticos activos en RNT,
+TOLIMA,RONCESVALLES,2022,julio,Visitantes extranjeros no residentes,1
+TOLIMA,ROVIRA,2018,enero,Visitantes extranjeros no residentes,1
+TOLIMA,ROVIRA,2018,junio,Visitantes extranjeros no residentes,1
+TOLIMA,ROVIRA,2018,julio,Visitantes extranjeros no residentes,1
+TOLIMA,ROVIRA,2019,diciembre,Visitantes extranjeros no residentes,5
+TOLIMA,ROVIRA,2020,enero,Visitantes extranjeros no residentes,4
+TOLIMA,ROVIRA,2020,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,ROVIRA,2021,enero,Visitantes extranjeros no residentes,2
+TOLIMA,ROVIRA,2021,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,ROVIRA,2021,julio,Visitantes extranjeros no residentes,2
+TOLIMA,ROVIRA,2021,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,ROVIRA,2021,diciembre,Visitantes extranjeros no residentes,6
+TOLIMA,ROVIRA,2022,enero,Visitantes extranjeros no residentes,4
+TOLIMA,ROVIRA,2022,marzo,Visitantes extranjeros no residentes,2
+TOLIMA,ROVIRA,2022,mayo,Visitantes extranjeros no residentes,1
+TOLIMA,ROVIRA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,68
+TOLIMA,ROVIRA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,47
+TOLIMA,ROVIRA,2022,julio,Establecimientos de alojamiento y hospedaje,7
+TOLIMA,ROVIRA,2022,julio,Prestadores de servicios turísticos activos en RNT,
+TOLIMA,SALDAÑA,2018,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2018,junio,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2018,julio,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2018,agosto,Visitantes extranjeros no residentes,2
+TOLIMA,SALDAÑA,2018,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2018,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2019,enero,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2019,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2019,junio,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2019,agosto,llegadas pasajeros Nacionales,13
+TOLIMA,SALDAÑA,2019,agosto,Visitantes extranjeros no residentes,4
+TOLIMA,SALDAÑA,2019,septiembre,llegadas pasajeros Nacionales,13
+TOLIMA,SALDAÑA,2019,octubre,llegadas pasajeros Nacionales,12
+TOLIMA,SALDAÑA,2019,octubre,Visitantes extranjeros no residentes,2
+TOLIMA,SALDAÑA,2019,noviembre,llegadas pasajeros Nacionales,12
+TOLIMA,SALDAÑA,2019,diciembre,llegadas pasajeros Nacionales,6
+TOLIMA,SALDAÑA,2019,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2020,enero,llegadas pasajeros Nacionales,20
+TOLIMA,SALDAÑA,2020,enero,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2020,marzo,llegadas pasajeros Nacionales,18
+TOLIMA,SALDAÑA,2020,mayo,llegadas pasajeros Nacionales,0
+TOLIMA,SALDAÑA,2020,octubre,llegadas pasajeros Nacionales,0
+TOLIMA,SALDAÑA,2020,noviembre,llegadas pasajeros Nacionales,1
+TOLIMA,SALDAÑA,2020,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2020,diciembre,llegadas pasajeros Nacionales,0
+TOLIMA,SALDAÑA,2021,enero,Visitantes extranjeros no residentes,3
+TOLIMA,SALDAÑA,2021,enero,llegadas pasajeros Nacionales,2
+TOLIMA,SALDAÑA,2021,febrero,llegadas pasajeros Nacionales,21
+TOLIMA,SALDAÑA,2021,marzo,llegadas pasajeros Nacionales,3
+TOLIMA,SALDAÑA,2021,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2021,abril,llegadas pasajeros Nacionales,3
+TOLIMA,SALDAÑA,2021,mayo,llegadas pasajeros Nacionales,4
+TOLIMA,SALDAÑA,2021,junio,llegadas pasajeros Nacionales,3
+TOLIMA,SALDAÑA,2021,junio,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2021,julio,llegadas pasajeros Nacionales,9
+TOLIMA,SALDAÑA,2021,agosto,llegadas pasajeros Nacionales,15
+TOLIMA,SALDAÑA,2021,agosto,Visitantes extranjeros no residentes,2
+TOLIMA,SALDAÑA,2021,septiembre,llegadas pasajeros Nacionales,5
+TOLIMA,SALDAÑA,2021,octubre,llegadas pasajeros Nacionales,6
+TOLIMA,SALDAÑA,2021,noviembre,llegadas pasajeros Nacionales,7
+TOLIMA,SALDAÑA,2021,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,SALDAÑA,2021,diciembre,llegadas pasajeros Nacionales,11
+TOLIMA,SALDAÑA,2021,diciembre,Visitantes extranjeros no residentes,2
+TOLIMA,SALDAÑA,2022,enero,llegadas pasajeros Nacionales,7
+TOLIMA,SALDAÑA,2022,enero,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2022,febrero,llegadas pasajeros Nacionales,10
+TOLIMA,SALDAÑA,2022,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2022,marzo,llegadas pasajeros Nacionales,6
+TOLIMA,SALDAÑA,2022,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,SALDAÑA,2022,abril,llegadas pasajeros Nacionales,6
+TOLIMA,SALDAÑA,2022,mayo,llegadas pasajeros Nacionales,11
+TOLIMA,SALDAÑA,2022,junio,llegadas pasajeros Nacionales,6
+TOLIMA,SALDAÑA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,152
+TOLIMA,SALDAÑA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,121
+TOLIMA,SALDAÑA,2022,julio,Prestadores de servicios turísticos activos en RNT,10
+TOLIMA,SALDAÑA,2022,julio,Establecimientos de alojamiento y hospedaje,9
+TOLIMA,SAN ANTONIO,2018,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,SAN ANTONIO,2020,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,SAN ANTONIO,2021,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,SAN ANTONIO,2021,diciembre,Visitantes extranjeros no residentes,2
+TOLIMA,SAN ANTONIO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,51
+TOLIMA,SAN ANTONIO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,41
+TOLIMA,SAN ANTONIO,2022,julio,Prestadores de servicios turísticos activos en RNT,7
+TOLIMA,SAN ANTONIO,2022,julio,Establecimientos de alojamiento y hospedaje,6
+TOLIMA,SAN LUIS,2018,junio,Visitantes extranjeros no residentes,6
+TOLIMA,SAN LUIS,2018,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,SAN LUIS,2019,junio,Visitantes extranjeros no residentes,1
+TOLIMA,SAN LUIS,2019,julio,Visitantes extranjeros no residentes,1
+TOLIMA,SAN LUIS,2019,diciembre,Visitantes extranjeros no residentes,3
+TOLIMA,SAN LUIS,2020,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,SAN LUIS,2021,enero,Visitantes extranjeros no residentes,1
+TOLIMA,SAN LUIS,2021,abril,Visitantes extranjeros no residentes,1
+TOLIMA,SAN LUIS,2021,junio,Visitantes extranjeros no residentes,1
+TOLIMA,SAN LUIS,2021,julio,Visitantes extranjeros no residentes,1
+TOLIMA,SAN LUIS,2021,agosto,Visitantes extranjeros no residentes,6
+TOLIMA,SAN LUIS,2021,noviembre,Visitantes extranjeros no residentes,2
+TOLIMA,SAN LUIS,2021,diciembre,Visitantes extranjeros no residentes,2
+TOLIMA,SAN LUIS,2022,enero,Visitantes extranjeros no residentes,2
+TOLIMA,SAN LUIS,2022,febrero,Visitantes extranjeros no residentes,1
+TOLIMA,SAN LUIS,2022,junio,Visitantes extranjeros no residentes,3
+TOLIMA,SAN LUIS,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,178
+TOLIMA,SAN LUIS,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,82
+TOLIMA,SAN LUIS,2022,julio,Prestadores de servicios turísticos activos en RNT,14
+TOLIMA,SAN LUIS,2022,julio,Establecimientos de alojamiento y hospedaje,13
+TOLIMA,SAN LUIS,2022,julio,Visitantes extranjeros no residentes,4
+TOLIMA,SANTA ISABEL,2019,junio,Visitantes extranjeros no residentes,2
+TOLIMA,SANTA ISABEL,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,46
+TOLIMA,SANTA ISABEL,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,22
+TOLIMA,SANTA ISABEL,2022,julio,Prestadores de servicios turísticos activos en RNT,7
+TOLIMA,SANTA ISABEL,2022,julio,Establecimientos de alojamiento y hospedaje,6
+TOLIMA,VENADILLO,2018,octubre,Visitantes extranjeros no residentes,1
+TOLIMA,VENADILLO,2018,noviembre,Visitantes extranjeros no residentes,1
+TOLIMA,VENADILLO,2018,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,VENADILLO,2019,julio,Visitantes extranjeros no residentes,1
+TOLIMA,VENADILLO,2020,febrero,Visitantes extranjeros no residentes,2
+TOLIMA,VENADILLO,2020,diciembre,Visitantes extranjeros no residentes,1
+TOLIMA,VENADILLO,2021,julio,Visitantes extranjeros no residentes,1
+TOLIMA,VENADILLO,2021,septiembre,Visitantes extranjeros no residentes,1
+TOLIMA,VENADILLO,2021,octubre,Visitantes extranjeros no residentes,2
+TOLIMA,VENADILLO,2021,diciembre,Visitantes extranjeros no residentes,3
+TOLIMA,VENADILLO,2022,enero,Visitantes extranjeros no residentes,1
+TOLIMA,VENADILLO,2022,marzo,Visitantes extranjeros no residentes,1
+TOLIMA,VENADILLO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,163
+TOLIMA,VENADILLO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,114
+TOLIMA,VENADILLO,2022,julio,Prestadores de servicios turísticos activos en RNT,14
+TOLIMA,VENADILLO,2022,julio,Establecimientos de alojamiento y hospedaje,10
+TOLIMA,VENADILLO,2022,julio,Visitantes extranjeros no residentes,3
+PUTUMAYO,MOCOA,2018,enero,Visitantes extranjeros no residentes,91
+PUTUMAYO,MOCOA,2018,febrero,Visitantes extranjeros no residentes,79
+PUTUMAYO,MOCOA,2018,marzo,Visitantes extranjeros no residentes,85
+PUTUMAYO,MOCOA,2018,abril,Visitantes extranjeros no residentes,66
+PUTUMAYO,MOCOA,2018,mayo,Visitantes extranjeros no residentes,50
+PUTUMAYO,MOCOA,2018,junio,Visitantes extranjeros no residentes,28
+PUTUMAYO,MOCOA,2018,julio,Visitantes extranjeros no residentes,46
+PUTUMAYO,MOCOA,2018,agosto,Visitantes extranjeros no residentes,45
+PUTUMAYO,MOCOA,2018,septiembre,Visitantes extranjeros no residentes,45
+PUTUMAYO,MOCOA,2018,octubre,Visitantes extranjeros no residentes,45
+PUTUMAYO,MOCOA,2018,noviembre,Visitantes extranjeros no residentes,56
+PUTUMAYO,MOCOA,2018,diciembre,Visitantes extranjeros no residentes,28
+PUTUMAYO,MOCOA,2019,enero,Visitantes extranjeros no residentes,32
+PUTUMAYO,MOCOA,2019,febrero,Visitantes extranjeros no residentes,54
+PUTUMAYO,MOCOA,2019,marzo,Visitantes extranjeros no residentes,33
+PUTUMAYO,MOCOA,2019,abril,Visitantes extranjeros no residentes,50
+PUTUMAYO,MOCOA,2019,mayo,Visitantes extranjeros no residentes,38
+PUTUMAYO,MOCOA,2019,junio,Visitantes extranjeros no residentes,26
+PUTUMAYO,MOCOA,2019,julio,Visitantes extranjeros no residentes,24
+PUTUMAYO,MOCOA,2019,agosto,Visitantes extranjeros no residentes,45
+PUTUMAYO,MOCOA,2019,septiembre,Visitantes extranjeros no residentes,38
+PUTUMAYO,MOCOA,2019,octubre,Visitantes extranjeros no residentes,41
+PUTUMAYO,MOCOA,2019,noviembre,Visitantes extranjeros no residentes,26
+PUTUMAYO,MOCOA,2019,diciembre,Visitantes extranjeros no residentes,68
+PUTUMAYO,MOCOA,2020,enero,Visitantes extranjeros no residentes,43
+PUTUMAYO,MOCOA,2020,febrero,Visitantes extranjeros no residentes,35
+PUTUMAYO,MOCOA,2020,marzo,Visitantes extranjeros no residentes,26
+PUTUMAYO,MOCOA,2020,octubre,Visitantes extranjeros no residentes,3
+PUTUMAYO,MOCOA,2020,noviembre,Visitantes extranjeros no residentes,8
+PUTUMAYO,MOCOA,2020,diciembre,Visitantes extranjeros no residentes,25
+PUTUMAYO,MOCOA,2021,enero,Visitantes extranjeros no residentes,15
+PUTUMAYO,MOCOA,2021,febrero,Visitantes extranjeros no residentes,13
+PUTUMAYO,MOCOA,2021,marzo,Visitantes extranjeros no residentes,43
+PUTUMAYO,MOCOA,2021,abril,Visitantes extranjeros no residentes,4
+PUTUMAYO,MOCOA,2021,mayo,Visitantes extranjeros no residentes,12
+PUTUMAYO,MOCOA,2021,junio,Visitantes extranjeros no residentes,7
+PUTUMAYO,MOCOA,2021,julio,Visitantes extranjeros no residentes,22
+PUTUMAYO,MOCOA,2021,agosto,Visitantes extranjeros no residentes,16
+PUTUMAYO,MOCOA,2021,septiembre,Visitantes extranjeros no residentes,16
+PUTUMAYO,MOCOA,2021,octubre,Visitantes extranjeros no residentes,15
+PUTUMAYO,MOCOA,2021,noviembre,Visitantes extranjeros no residentes,40
+PUTUMAYO,MOCOA,2021,diciembre,Visitantes extranjeros no residentes,51
+PUTUMAYO,MOCOA,2022,enero,Visitantes extranjeros no residentes,19
+PUTUMAYO,MOCOA,2022,febrero,Visitantes extranjeros no residentes,15
+PUTUMAYO,MOCOA,2022,marzo,Visitantes extranjeros no residentes,20
+PUTUMAYO,MOCOA,2022,abril,Visitantes extranjeros no residentes,94
+PUTUMAYO,MOCOA,2022,mayo,Visitantes extranjeros no residentes,26
+PUTUMAYO,MOCOA,2022,junio,Visitantes extranjeros no residentes,29
+PUTUMAYO,MOCOA,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,1191
+PUTUMAYO,MOCOA,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,912
+PUTUMAYO,MOCOA,2022,julio,Prestadores de servicios turísticos activos en RNT,156
+PUTUMAYO,MOCOA,2022,julio,Establecimientos de alojamiento y hospedaje,98
+PUTUMAYO,MOCOA,2022,julio,Visitantes extranjeros no residentes,27
+PUTUMAYO,PUERTO CAICEDO,2018,enero,Visitantes extranjeros no residentes,3
+PUTUMAYO,PUERTO CAICEDO,2018,marzo,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2018,abril,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2018,junio,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2018,julio,Visitantes extranjeros no residentes,2
+PUTUMAYO,PUERTO CAICEDO,2018,agosto,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2018,septiembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2018,octubre,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2018,noviembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2018,diciembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2019,enero,Visitantes extranjeros no residentes,9
+PUTUMAYO,PUERTO CAICEDO,2019,marzo,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2019,mayo,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2019,junio,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2019,agosto,Visitantes extranjeros no residentes,3
+PUTUMAYO,PUERTO CAICEDO,2019,septiembre,Visitantes extranjeros no residentes,3
+PUTUMAYO,PUERTO CAICEDO,2019,noviembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2019,diciembre,Visitantes extranjeros no residentes,3
+PUTUMAYO,PUERTO CAICEDO,2020,enero,Visitantes extranjeros no residentes,3
+PUTUMAYO,PUERTO CAICEDO,2020,febrero,Visitantes extranjeros no residentes,7
+PUTUMAYO,PUERTO CAICEDO,2021,octubre,Visitantes extranjeros no residentes,2
+PUTUMAYO,PUERTO CAICEDO,2021,noviembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2021,diciembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2022,enero,Visitantes extranjeros no residentes,1
+PUTUMAYO,PUERTO CAICEDO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,108
+PUTUMAYO,PUERTO CAICEDO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,78
+PUTUMAYO,PUERTO CAICEDO,2022,julio,Prestadores de servicios turísticos activos en RNT,7
+PUTUMAYO,PUERTO CAICEDO,2022,julio,Establecimientos de alojamiento y hospedaje,4
+PUTUMAYO,SIBUNDOY,2018,febrero,Visitantes extranjeros no residentes,9
+PUTUMAYO,SIBUNDOY,2018,mayo,Visitantes extranjeros no residentes,1
+PUTUMAYO,SIBUNDOY,2018,junio,Visitantes extranjeros no residentes,4
+PUTUMAYO,SIBUNDOY,2018,julio,Visitantes extranjeros no residentes,1
+PUTUMAYO,SIBUNDOY,2018,agosto,Visitantes extranjeros no residentes,1
+PUTUMAYO,SIBUNDOY,2018,septiembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,SIBUNDOY,2018,octubre,Visitantes extranjeros no residentes,16
+PUTUMAYO,SIBUNDOY,2018,noviembre,Visitantes extranjeros no residentes,2
+PUTUMAYO,SIBUNDOY,2018,diciembre,Visitantes extranjeros no residentes,13
+PUTUMAYO,SIBUNDOY,2019,enero,Visitantes extranjeros no residentes,8
+PUTUMAYO,SIBUNDOY,2019,febrero,Visitantes extranjeros no residentes,3
+PUTUMAYO,SIBUNDOY,2019,marzo,Visitantes extranjeros no residentes,6
+PUTUMAYO,SIBUNDOY,2019,abril,Visitantes extranjeros no residentes,4
+PUTUMAYO,SIBUNDOY,2019,mayo,Visitantes extranjeros no residentes,2
+PUTUMAYO,SIBUNDOY,2019,junio,Visitantes extranjeros no residentes,6
+PUTUMAYO,SIBUNDOY,2019,julio,Visitantes extranjeros no residentes,1
+PUTUMAYO,SIBUNDOY,2019,agosto,Visitantes extranjeros no residentes,2
+PUTUMAYO,SIBUNDOY,2019,septiembre,Visitantes extranjeros no residentes,5
+PUTUMAYO,SIBUNDOY,2019,octubre,Visitantes extranjeros no residentes,2
+PUTUMAYO,SIBUNDOY,2019,noviembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,SIBUNDOY,2019,diciembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,SIBUNDOY,2020,enero,Visitantes extranjeros no residentes,6
+PUTUMAYO,SIBUNDOY,2020,febrero,Visitantes extranjeros no residentes,3
+PUTUMAYO,SIBUNDOY,2020,marzo,Visitantes extranjeros no residentes,1
+PUTUMAYO,SIBUNDOY,2020,noviembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,SIBUNDOY,2020,diciembre,Visitantes extranjeros no residentes,3
+PUTUMAYO,SIBUNDOY,2021,enero,Visitantes extranjeros no residentes,5
+PUTUMAYO,SIBUNDOY,2021,abril,Visitantes extranjeros no residentes,1
+PUTUMAYO,SIBUNDOY,2021,junio,Visitantes extranjeros no residentes,1
+PUTUMAYO,SIBUNDOY,2021,agosto,Visitantes extranjeros no residentes,8
+PUTUMAYO,SIBUNDOY,2021,septiembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,SIBUNDOY,2021,diciembre,Visitantes extranjeros no residentes,9
+PUTUMAYO,SIBUNDOY,2022,enero,Visitantes extranjeros no residentes,3
+PUTUMAYO,SIBUNDOY,2022,febrero,Visitantes extranjeros no residentes,13
+PUTUMAYO,SIBUNDOY,2022,marzo,Visitantes extranjeros no residentes,2
+PUTUMAYO,SIBUNDOY,2022,abril,Visitantes extranjeros no residentes,2
+PUTUMAYO,SIBUNDOY,2022,mayo,Visitantes extranjeros no residentes,4
+PUTUMAYO,SIBUNDOY,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,246
+PUTUMAYO,SIBUNDOY,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,181
+PUTUMAYO,SIBUNDOY,2022,julio,Prestadores de servicios turísticos activos en RNT,34
+PUTUMAYO,SIBUNDOY,2022,julio,Establecimientos de alojamiento y hospedaje,28
+PUTUMAYO,SIBUNDOY,2022,julio,Visitantes extranjeros no residentes,6
+PUTUMAYO,SAN FRANCISCO,2019,abril,Visitantes extranjeros no residentes,3
+PUTUMAYO,SAN FRANCISCO,2019,mayo,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN FRANCISCO,2019,junio,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN FRANCISCO,2019,octubre,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN FRANCISCO,2019,diciembre,Visitantes extranjeros no residentes,2
+PUTUMAYO,SAN FRANCISCO,2021,diciembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN FRANCISCO,2022,febrero,Visitantes extranjeros no residentes,2
+PUTUMAYO,SAN FRANCISCO,2022,marzo,Visitantes extranjeros no residentes,3
+PUTUMAYO,SAN FRANCISCO,2022,mayo,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN FRANCISCO,2022,junio,Visitantes extranjeros no residentes,3
+PUTUMAYO,SAN FRANCISCO,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,12
+PUTUMAYO,SAN FRANCISCO,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,
+PUTUMAYO,SAN FRANCISCO,2022,julio,Establecimientos de alojamiento y hospedaje,1
+PUTUMAYO,SAN FRANCISCO,2022,julio,Prestadores de servicios turísticos activos en RNT,
+PUTUMAYO,SAN MIGUEL,2018,enero,Visitantes extranjeros no residentes,2
+PUTUMAYO,SAN MIGUEL,2018,marzo,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN MIGUEL,2018,mayo,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN MIGUEL,2018,julio,Visitantes extranjeros no residentes,3
+PUTUMAYO,SAN MIGUEL,2018,septiembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN MIGUEL,2018,octubre,Visitantes extranjeros no residentes,4
+PUTUMAYO,SAN MIGUEL,2019,enero,Visitantes extranjeros no residentes,6
+PUTUMAYO,SAN MIGUEL,2019,febrero,Visitantes extranjeros no residentes,4
+PUTUMAYO,SAN MIGUEL,2019,abril,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN MIGUEL,2019,mayo,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN MIGUEL,2019,junio,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN MIGUEL,2019,septiembre,Visitantes extranjeros no residentes,4
+PUTUMAYO,SAN MIGUEL,2019,noviembre,Visitantes extranjeros no residentes,11
+PUTUMAYO,SAN MIGUEL,2019,diciembre,Visitantes extranjeros no residentes,10
+PUTUMAYO,SAN MIGUEL,2020,enero,Visitantes extranjeros no residentes,8
+PUTUMAYO,SAN MIGUEL,2020,febrero,Visitantes extranjeros no residentes,3
+PUTUMAYO,SAN MIGUEL,2020,marzo,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN MIGUEL,2020,diciembre,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN MIGUEL,2021,junio,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN MIGUEL,2021,julio,Visitantes extranjeros no residentes,1
+PUTUMAYO,SAN MIGUEL,2022,enero,Visitantes extranjeros no residentes,2
+PUTUMAYO,SAN MIGUEL,2022,marzo,Visitantes extranjeros no residentes,2
+PUTUMAYO,SAN MIGUEL,2022,abril,Visitantes extranjeros no residentes,3
+PUTUMAYO,SAN MIGUEL,2022,mayo,Visitantes extranjeros no residentes,4
+PUTUMAYO,SAN MIGUEL,2022,junio,Visitantes extranjeros no residentes,9
+PUTUMAYO,SAN MIGUEL,2022,julio,Total Camas Establecimientos de Alojamiento y Hospedaje,42
+PUTUMAYO,SAN MIGUEL,2022,julio,Total Habitaciones Establecimientos de Alojamiento y Hospedaje,33
+PUTUMAYO,SAN MIGUEL,2022,julio,Prestadores de servicios turísticos activos en RNT,4
+PUTUMAYO,SAN MIGUEL,2022,julio,Establecimientos de alojamiento y hospedaje,3
+PUTUMAYO,SAN MIGUEL,2022,julio,Visitantes extranjeros no residentes,1
