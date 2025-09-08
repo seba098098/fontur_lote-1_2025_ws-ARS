@@ -1,0 +1,436 @@
+﻿columna,valor
+departamento,CAQUETA
+departamento,CAQUETÁ
+departamento,HUILA
+departamento,Huila
+departamento,PUTUMAYO
+departamento,TOLIMA
+departamento,Tolima
+municipio,ACEVEDO
+municipio,AGRADO
+municipio,AIPE
+municipio,ALGECIRAS
+municipio,ALPUJARRA
+municipio,ALTAMIRA
+municipio,ALVARADO
+municipio,AMBALEMA
+municipio,ARMERO
+municipio,ATACO
+municipio,Acevedo
+municipio,BARAYA
+municipio,CAJAMARCA
+municipio,CAMPOALEGRE
+municipio,CHAPARRAL
+municipio,COELLO
+municipio,COLAN
+municipio,COLOMBIA
+municipio,COYAIMA
+municipio,CUNDAY
+municipio,DOLORES
+municipio,ESPINAL
+municipio,FALAN
+municipio,FLANDES
+municipio,FLORENCIA
+municipio,FRESNO
+municipio,GARZON
+municipio,GARZÓN
+municipio,GIGANTE
+municipio,GUADALUPE
+municipio,GUAMO
+municipio,HERVEO
+municipio,HOBO
+municipio,HONDA
+municipio,IBAGUE
+municipio,IBAGUÉ
+municipio,ICONONZO
+municipio,ISNOS
+municipio,Ibagué
+municipio,LA ARGENTINA
+municipio,LA JAGUA
+municipio,LA PLATA
+municipio,LIBANO
+municipio,MARIQUITA
+municipio,MELGAR
+municipio,MOCOA
+municipio,MURILLO
+municipio,NATAGAIMA
+municipio,NEIVA
+municipio,NÁTAGA
+municipio,OPORAPA
+municipio,ORITO
+municipio,ORTEGA
+municipio,PAICOL
+municipio,PALERMO
+municipio,PALOCABILDO
+municipio,PIEDRAS
+municipio,PITALITO
+municipio,PLANADAS
+municipio,PRADO
+municipio,PUERTO CAICEDO
+municipio,RIOBLANCO
+municipio,RIVERA
+municipio,RONCESVALLES
+municipio,ROVIRA
+municipio,SALADOBLANCO
+municipio,SALDAÑA
+municipio,SAN AGUSTIN
+municipio,SAN AGUSTÍN
+municipio,SAN ANTONIO
+municipio,SAN FRANCISCO
+municipio,SAN LUIS
+municipio,SAN MIGUEL
+municipio,SANTA ISABEL
+municipio,SANTIAGO
+municipio,SIBUNDOY
+municipio,SUAZA
+municipio,TARQUI
+municipio,TELLO
+municipio,TERUEL
+municipio,TESALIA
+municipio,TIMANÁ
+municipio,VALLE DE SAN JUAN
+municipio,VENADILLO
+municipio,VILLA GARZÓN
+municipio,VILLA VIEJA
+municipio,VILLAHERMOSA
+municipio,VILLAVIEJA
+municipio,nan
+anio,2015
+anio,2016
+anio,2017
+anio,2018
+anio,2019
+anio,2020
+anio,2021
+anio,2022
+anio,2023
+anio,2024
+anio,2025
+anio,nan
+mes,1
+mes,2
+mes,3
+mes,4
+mes,5
+mes,6
+mes,7
+mes,8
+mes,9
+mes,10
+mes,11
+mes,12
+mes,nan
+indicador,Colegios Amigos del Turismo
+indicador,Establecimientos de alojamiento y hospedaje
+indicador,Llegadas internacionales
+indicador,Prestadores con Check-in de bioseguridad
+indicador,Prestadores de Servicios Turísticos activos por categoria
+indicador,Prestadores de servicios turísticos activos en RNT
+indicador,Salidas internacionales
+indicador,Total Camas Establecimientos de Alojamiento y Hospedaje
+indicador,Total Habitaciones Establecimientos de Alojamiento y Hospedaje
+indicador,Visitantes No Residentes por origen
+indicador,Visitantes No Residentes total por departamento
+indicador,Visitantes a Parques Nacionales Naturales
+indicador,Visitantes extranjeros no residentes
+indicador,Visitantes por atractivo
+indicador,llegadas pasajeros Nacionales
+pais_origen,Albania
+pais_origen,Alemania
+pais_origen,Andorra
+pais_origen,Angola
+pais_origen,Antigua y Barbuda
+pais_origen,Antillas Neerlandesas
+pais_origen,Arabia Saudita
+pais_origen,Argelia
+pais_origen,Argentina
+pais_origen,Armenia
+pais_origen,Aruba
+pais_origen,Australia
+pais_origen,Austria
+pais_origen,Azerbaiyán
+pais_origen,Bahamas
+pais_origen,Bangladesh
+pais_origen,Barbados
+pais_origen,Belice
+pais_origen,Benín
+pais_origen,Bielorrusia
+pais_origen,Bolivia
+pais_origen,Bonaire-San Esustaquio y Saba
+pais_origen,Bosnia
+pais_origen,Brasil
+pais_origen,Brunéi
+pais_origen,Bulgaria
+pais_origen,Burkina Faso
+pais_origen,Bélgica
+pais_origen,Cabo Verde
+pais_origen,Camerún
+pais_origen,Canadá
+pais_origen,Chile
+pais_origen,China
+pais_origen,Chipre
+pais_origen,Corea del Sur
+pais_origen,Costa Rica
+pais_origen,Costa de Marfil
+pais_origen,Croacia
+pais_origen,Cuba
+pais_origen,Curazao
+pais_origen,Dinamarca
+pais_origen,Dominica
+pais_origen,Ecuador
+pais_origen,Egipto
+pais_origen,El Salvador
+pais_origen,Emiratos Árabes Unidos
+pais_origen,Eslovaquia
+pais_origen,Eslovenia
+pais_origen,España
+pais_origen,Estados Unidos
+pais_origen,Estonia
+pais_origen,Filipinas
+pais_origen,Finlandia
+pais_origen,Fiyi
+pais_origen,Francia
+pais_origen,Georgia
+pais_origen,Ghana
+pais_origen,Granada
+pais_origen,Grecia
+pais_origen,Guatemala
+pais_origen,Guayana Francesa
+pais_origen,Guinea Ecuatorial
+pais_origen,Guyana
+pais_origen,Haití
+pais_origen,Honduras
+pais_origen,Hong Kong
+pais_origen,Hungría
+pais_origen,India
+pais_origen,Indonesia
+pais_origen,Iraq
+pais_origen,Irlanda
+pais_origen,Irán
+pais_origen,Isla Aland
+pais_origen,Islandia
+pais_origen,Islas Caimán
+pais_origen,Islas Cook
+pais_origen,Islas Vírgenes Estadounidenses
+pais_origen,Israel
+pais_origen,Italia
+pais_origen,Jamaica
+pais_origen,Japón
+pais_origen,Jordania
+pais_origen,Kazajistán
+pais_origen,Kenia
+pais_origen,Letonia
+pais_origen,Liechtenstein
+pais_origen,Lituania
+pais_origen,Luxemburgo
+pais_origen,Líbano
+pais_origen,Malasia
+pais_origen,Malta
+pais_origen,Marruecos
+pais_origen,Mayotte
+pais_origen,Moldavia
+pais_origen,Montenegro
+pais_origen,Mozambique
+pais_origen,México
+pais_origen,Mónaco
+pais_origen,Nepal
+pais_origen,Nicaragua
+pais_origen,Nigeria
+pais_origen,Noruega
+pais_origen,Nueva Zelanda
+pais_origen,Organismos internacionales
+pais_origen,Palestina
+pais_origen,Panamá
+pais_origen,Paraguay
+pais_origen,Países Bajos
+pais_origen,Perú
+pais_origen,Polonia
+pais_origen,Portugal
+pais_origen,Puerto Rico
+pais_origen,Qatar
+pais_origen,Reino Unido
+pais_origen,República Checa
+pais_origen,República Democratica del Congo
+pais_origen,República Dominicana
+pais_origen,Ruanda
+pais_origen,Rumania
+pais_origen,Rusia
+pais_origen,San Cristóbal y Nieves
+pais_origen,San Martin
+pais_origen,San Martín
+pais_origen,Santa Lucia
+pais_origen,Serbia
+pais_origen,Sin Especificar
+pais_origen,Singapur
+pais_origen,Siria
+pais_origen,Sri Lanka
+pais_origen,Sudan del Sur
+pais_origen,Sudáfrica
+pais_origen,Sudán
+pais_origen,Suecia
+pais_origen,Suiza
+pais_origen,Surinam
+pais_origen,Tailandia
+pais_origen,Taiwán
+pais_origen,Trinidad y Tobago
+pais_origen,Turquía
+pais_origen,Túnez
+pais_origen,Ucrania
+pais_origen,Uganda
+pais_origen,Uruguay
+pais_origen,Uzbekistán
+pais_origen,Vanuatu
+pais_origen,Vietnam
+pais_origen,Zimbabue
+pais_origen,nan
+atractivo,Parque Nacional Natural Cueva de los Guacharos
+atractivo,Parque Nacional Natural Nevados
+atractivo,nan
+categoria,AGENCIAS DE VIAJES
+categoria,EMPRESAS DE TIEMPO COMPARTIDO Y MULTIPROPIEDAD
+categoria,EMPRESAS DE TRANSPORTE TERRESTRE AUTOMOTOR
+categoria,ESTABLECIMIENTOS DE ALOJAMIENTO TURÍSTICO
+categoria,GUIAS DE TURISMO
+categoria,OFICINAS DE REPRESENTACION TURÍSTICA
+categoria,OPERADORES DE PLATAFORMAS ELECTRÓNICAS O DIGITALES DE SERVICIOS TURÍSTICOS
+categoria,VIVIENDAS TURÍSTICAS
+categoria,nan
+colegio,CARLOS RAMAN REPIZO CABRERA
+colegio,CONSERVATORIO DE IBAGUE INSTITUCION EDUCATIVA TECNICA
+colegio,IE LICEO DE SANTA LIBRADA
+colegio,INSTITUCION EDUCATIVA EL ROSARIO
+colegio,INSTITUCION EDUCATIVA LA SALLE
+colegio,INSTITUCION EDUCATIVA NORMAL SUPERIOR FABIO LOZANO
+colegio,INSTITUCION EDUCATIVA RURAL PUERTO ARANGO
+colegio,INSTITUCION EDUCATIVA RURAL TESALIA
+colegio,INSTITUCION EDUCATIVA SUCRE
+colegio,INSTITUCION EDUCATIVA TECNICA ALFONSO PALACIO RUDAS
+colegio,INSTITUCION EDUCATIVA TECNICA AMBIENTAL COMBEIMA
+colegio,INSTITUCION EDUCATIVA TECNICA LEPANTO
+colegio,INSTITUCION EDUCATIVA TECNICA SUMAPAZ
+colegio,INSTITUCION ETNOEDUCATIVA RURAL BILINGUE INGA MOCOA
+colegio,LUIS EDGAR DURAN RAMIREZ
+colegio,RODRIGO LARA BONILLA
+colegio,SAN GERARDO
+colegio,nan
+colegio,CARLOS RAMAN REPIZO CABRERA
+colegio,CONSERVATORIO DE IBAGUE INSTITUCION EDUCATIVA TECNICA
+colegio,IE LICEO DE SANTA LIBRADA
+colegio,INSTITUCION EDUCATIVA EL ROSARIO
+colegio,INSTITUCION EDUCATIVA LA SALLE
+colegio,INSTITUCION EDUCATIVA NORMAL SUPERIOR FABIO LOZANO
+colegio,INSTITUCION EDUCATIVA RURAL PUERTO ARANGO
+colegio,INSTITUCION EDUCATIVA RURAL TESALIA
+colegio,INSTITUCION EDUCATIVA SUCRE
+colegio,INSTITUCION EDUCATIVA TECNICA ALFONSO PALACIO RUDAS
+colegio,INSTITUCION EDUCATIVA TECNICA AMBIENTAL COMBEIMA
+colegio,INSTITUCION EDUCATIVA TECNICA LEPANTO
+colegio,INSTITUCION EDUCATIVA TECNICA SUMAPAZ
+colegio,INSTITUCION ETNOEDUCATIVA RURAL BILINGUE INGA MOCOA
+colegio,LUIS EDGAR DURAN RAMIREZ
+colegio,RODRIGO LARA BONILLA
+colegio,SAN GERARDO
+colegio,nan
+direccion,50 METROS VÍA VEREDA LA ESTRELLA
+direccion,BAJO MESITAS
+direccion,CALLE 1 #5-11
+direccion,CALLE 10 NO 12-09
+direccion,CALLE 10 NO 4-39
+direccion,CALLE 11 NO 6-62 NEIVA
+direccion,CALLE 11 Nº 5-63 B. CENTRO
+direccion,CALLE 12 3A 27
+direccion,"CALLE 23 ENTRE CRA.14 Y 16 VARIANTE HONDA LA DORADA, HONDA, TOLIMA, COLOMBIA"
+direccion,CALLE 24 NO 5 BIS - 126
+direccion,CALLE 3 #1-03
+direccion,CALLE 4 #7-69 VILLAVIEJA
+direccion,CALLE 4 NO 13-40
+direccion,CALLE 4 NO. 3 - 36
+direccion,CALLE 5 # 25 18
+direccion,CALLE 5 #1-50W
+direccion,CALLE 5 8-82 ESQUINA
+direccion,CALLE 5 N 6 - 70
+direccion,CALLE 5 NO 1 82
+direccion,CALLE 5 NO 12-45
+direccion,CALLE 5 NO 23-48
+direccion,CALLE 5 NO. 6 - 27
+direccion,CALLE 6 N 12-42
+direccion,CALLE 6 N 2-57
+direccion,CALLE 6 NO. 3-60
+direccion,CALLE 7 # 3-51
+direccion,CALLE 7 N 5 45
+direccion,CALLE 7 NO 4-25 SAN FRANCISCO
+direccion,CARRERA 1 NO. 45 - 50
+direccion,CARRERA 1 NO. 45-50
+direccion,CARRERA 1 N° 45 - 50
+direccion,CARRERA 10 # 12-21 BARRIO SAN ISIDRO
+direccion,CARRERA 11 N 11 - 30
+direccion,CARRERA 16 NO. 42-195
+direccion,CARRERA 16 NO.42-195 CENTRO COMERCIAL SAN PEDRO PLAZA
+direccion,"CARRERA 19 NO 1 A-13, SAN AGUSTÍN, HUILA- COLOMBIA"
+direccion,CARRERA 1A NO. 45 - 50
+direccion,"CARRERA 2 NO. 20-86 IBAGUE, TOLIMA, COLOMBIA"
+direccion,CARRERA 3 #5-04
+direccion,CARRERA 3 BIS NO. 7-63 PASAJE CAMACHO
+direccion,CARRERA 3 NO 2-79
+direccion,CARRERA 4 # 1G-53
+direccion,CARRERA 4 # 8-36
+direccion,CARRERA 4 5-46
+direccion,CARRERA 4 NO. 3 - 33
+direccion,CARRERA 4 NO. 5 - 33
+direccion,CARRERA 4 NO. 6-36
+direccion,CARRERA 4 NO. 6-49
+direccion,CARRERA 4 NO. 7-56 CENTRO
+direccion,CARRERA 5 5-45 CENTRO
+direccion,CARRERA 5 A NO. 5-40
+direccion,CARRERA 5 NO. 5-54
+direccion,CARRERA 7 #2-41
+direccion,CARRERA 7 A N 15 - 26
+direccion,CARRERA 7 NO 10-99
+direccion,CARRERA 7 NO 4-09 SUR
+direccion,CARRERA 7 NO. 2 - 21
+direccion,CARRERA 8 NO 10-25
+direccion,CENTRO COMERCIAL ACQUA CARRERA 8 NO. 57 - 57 PRADOS DEL NORTE
+direccion,"CL. 15 # 5-61, NEIVA, HUILA"
+direccion,CR 5 5 24
+direccion,CR 8 N 57-57 CC ACQUA POWER CENTER
+direccion,CRA 4 # 4-43
+direccion,CRA. 7 #2S 06
+direccion,"FINCA EL MACO, VEREDA EL TABLÓN"
+direccion,"FINCA EL VEGÓN, VEREDA EL MORTIÑÍ, ISNOS, HUILA"
+direccion,"KILOMETRO 1 VÍA NEIVA, PALERMO, PALERMO, HUILA COLOMBIA"
+direccion,"KILOMETRO 15 VÍA YAGUARÁ, PALERMO, PALERMO, HUILA, COLOMBIA"
+direccion,KILÓMETRO 1 VÍA PALERMO
+direccion,KILÓMETRO 3 VÍA AIPE BOGOTÁ
+direccion,KILÓMETRO 3 VÍA TERMALES
+direccion,"KM 1,5 VÍA ULLOA RIVERA"
+direccion,KM 13 VÍA NEIVA- YAGUARA
+direccion,KM 2 VÍA LA JAGUA
+direccion,KM 2 VÍA SAN AGUSTÍN
+direccion,KM 21 VÍA GIGANTE ZULUAGA
+direccion,KM 22 VÍA PITALITO-SAN AGUSTÍN VEREDA EL PLAYÓN
+direccion,KM 4 VEREDA LA CASCAJOSA DEL MUNICIPIO DE NATAGA
+direccion,KM 5 VÍA ZULUAGA VEREDA CLAROS
+direccion,KM1 VÍA DESIERTO URBANIZACION CAMPESTRE VISTA HERMOSA
+direccion,LOTE 13 VILLA CAMPESTRE VISTA HERMOSA
+direccion,TERMINAL DE TRANSPORTE LOCAL 189 ENTRADA NO. 2
+direccion,TERMINAL DE TRANSPORTE OFICINA 205 PISO 2
+direccion,TRANSVERSAL 21 # 3B - 49
+direccion,VDA EL TABLÓN
+direccion,"VEREDA AGUA CALIENTE RIVERA, HUILA, COLOMBIA"
+direccion,VEREDA BAJO COROZAL
+direccion,VEREDA EL MORTIÑO
+direccion,VEREDA EL PORVENIR VIA AL MANANTIAL
+direccion,VEREDA EL RODEO FINCA VILLA MERCEDES
+direccion,VEREDA EL SALADO
+direccion,"VEREDA EL SALADO, RIVERA, HUILA, COLOMBIA"
+direccion,VEREDA LA CHAQUIRA
+direccion,VEREDA LA CUCHILLA
+direccion,VEREDA LA CUCHILLA KM 2 VÍA AL ESTRECHO
+direccion,VEREDA LA ESTRELLA
+direccion,VEREDA LAS QUEMADAS
+direccion,VEREDA MORTIÑO
+direccion,VEREDA PUEBLO NUEVO
+direccion,VEREDA RIVERITA
+direccion,VEREDA SALTO DE BORDONES
+direccion,VEREDA TRES ESQUINAS
+direccion,nan
